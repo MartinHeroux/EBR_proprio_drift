@@ -1,0 +1,4565 @@
+--------------------
+PROPRIOCEPTIVE DRIFT
+--------------------
+
+2019-02-14 09:46:59
+
+Starting study setup.
+	Creating:
+		../proprio_drift_data/sub08/sub08_log.txt
+		../proprio_drift_data/sub08/sub08_summary.txt
+		../proprio_drift_data/sub08/sub08_data.txt
+	Writing experiment summary.
+Finished study setup.
+
+------------------
+Spacing delay zero
+------------------
+Block_time 10:11:26
+
+***** measure_1 Trial #1-1 *****
+Trial_time 10:11:34
+
+perceived spacing horizontal
+Measure_time 10:11:56
+Subject selected: G
+Subject answer = 18
+Subject answer = 18
+Chart:
+	a = 3
+	b = 9
+	c = 24
+	d = 12
+	e = 42
+	f = 36
+	g = 18
+	h = 27
+	i = 39
+	j = 21
+	k = 33
+	l = 15
+	m = 0
+	n = 6
+	o = 30
+
+***** measure_2 Trial #1-2 *****
+Trial_time 10:11:56
+
+perceived spacing horizontal
+Measure_time 10:12:41
+Subject selected: I
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 18
+	b = 6
+	c = 30
+	d = 36
+	e = 39
+	f = 21
+	g = 42
+	h = 0
+	i = 15
+	j = 3
+	k = 9
+	l = 27
+	m = 33
+	n = 12
+	o = 24
+
+***** measure_3 Trial #1-3 *****
+Trial_time 10:12:41
+
+perceived spacing horizontal
+Measure_time 10:13:24
+Subject selected: B
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 36
+	b = 15
+	c = 9
+	d = 30
+	e = 12
+	f = 21
+	g = 24
+	h = 6
+	i = 18
+	j = 39
+	k = 27
+	l = 3
+	m = 0
+	n = 42
+	o = 33
+
+***** measure_4 Trial #1-4 *****
+Trial_time 10:13:24
+
+perceived spacing horizontal
+Measure_time 10:14:17
+Subject selected: B
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 36
+	b = 15
+	c = 3
+	d = 6
+	e = 27
+	f = 18
+	g = 21
+	h = 9
+	i = 33
+	j = 30
+	k = 12
+	l = 42
+	m = 0
+	n = 39
+	o = 24
+
+***** measure_5 Trial #1-5 *****
+Trial_time 10:14:17
+
+perceived spacing horizontal
+Measure_time 10:15:09
+Subject selected: C
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 33
+	b = 0
+	c = 15
+	d = 12
+	e = 27
+	f = 30
+	g = 6
+	h = 3
+	i = 39
+	j = 21
+	k = 18
+	l = 36
+	m = 9
+	n = 42
+	o = 24
+
+***** measure_6 Trial #1-6 *****
+Trial_time 10:15:09
+
+perceived spacing horizontal
+Measure_time 10:15:59
+Subject selected: J
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 3
+	b = 36
+	c = 33
+	d = 30
+	e = 18
+	f = 21
+	g = 9
+	h = 24
+	i = 27
+	j = 15
+	k = 39
+	l = 12
+	m = 6
+	n = 0
+	o = 42
+
+***** measure_7 Trial #1-7 *****
+Trial_time 10:15:59
+
+perceived spacing horizontal
+Measure_time 10:16:48
+Subject selected: M
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 39
+	b = 36
+	c = 42
+	d = 24
+	e = 6
+	f = 27
+	g = 0
+	h = 3
+	i = 33
+	j = 12
+	k = 9
+	l = 21
+	m = 15
+	n = 30
+	o = 18
+
+***** measure_8 Trial #1-8 *****
+Trial_time 10:16:48
+
+perceived spacing horizontal
+Measure_time 10:17:37
+Subject selected: E
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 21
+	b = 30
+	c = 3
+	d = 24
+	e = 15
+	f = 36
+	g = 18
+	h = 9
+	i = 12
+	j = 6
+	k = 39
+	l = 0
+	m = 33
+	n = 42
+	o = 27
+
+***** measure_9 Trial #1-9 *****
+Trial_time 10:17:37
+
+perceived spacing horizontal
+Measure_time 10:18:24
+Subject selected: N
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 3
+	b = 12
+	c = 39
+	d = 27
+	e = 18
+	f = 0
+	g = 42
+	h = 30
+	i = 9
+	j = 21
+	k = 24
+	l = 33
+	m = 36
+	n = 15
+	o = 6
+
+***** measure_10 Trial #1-10 *****
+Trial_time 10:18:24
+
+perceived spacing horizontal
+Measure_time 10:19:05
+Subject selected: F
+Subject answer = 15
+Subject answer = 15
+Chart:
+	a = 12
+	b = 6
+	c = 30
+	d = 3
+	e = 21
+	f = 15
+	g = 24
+	h = 18
+	i = 42
+	j = 9
+	k = 33
+	l = 27
+	m = 0
+	n = 36
+	o = 39
+
+------------------
+Spacing delay 3min
+------------------
+Block_time 10:19:05
+
+***** measure_1 Trial #2-1 *****
+Trial_time 10:23:45
+
+perceived spacing horizontal
+Measure_time 10:24:06
+Subject selected: H
+Subject answer = 12
+Subject answer = 12
+Chart:
+	a = 21
+	b = 24
+	c = 36
+	d = 33
+	e = 39
+	f = 18
+	g = 15
+	h = 12
+	i = 0
+	j = 27
+	k = 6
+	l = 3
+	m = 9
+	n = 30
+	o = 42
+
+***** measure_2 Trial #2-2 *****
+Trial_time 10:24:06
+
+perceived spacing horizontal
+Measure_time 10:24:50
+Subject selected: D
+Subject answer = 12
+Subject answer = 12
+Chart:
+	a = 30
+	b = 0
+	c = 18
+	d = 12
+	e = 36
+	f = 33
+	g = 15
+	h = 24
+	i = 21
+	j = 27
+	k = 9
+	l = 3
+	m = 6
+	n = 39
+	o = 42
+
+***** measure_3 Trial #2-3 *****
+Trial_time 10:24:50
+
+perceived spacing horizontal
+Measure_time 10:25:43
+Subject selected: N
+Subject answer = 12
+Subject answer = 12
+Chart:
+	a = 30
+	b = 18
+	c = 9
+	d = 15
+	e = 39
+	f = 0
+	g = 6
+	h = 42
+	i = 21
+	j = 33
+	k = 3
+	l = 27
+	m = 24
+	n = 12
+	o = 36
+
+***** measure_4 Trial #2-4 *****
+Trial_time 10:25:43
+
+perceived spacing horizontal
+Measure_time 10:26:34
+Subject selected: F
+Subject answer = 12
+Subject answer = 12
+Chart:
+	a = 15
+	b = 30
+	c = 3
+	d = 42
+	e = 39
+	f = 12
+	g = 36
+	h = 21
+	i = 18
+	j = 33
+	k = 27
+	l = 9
+	m = 24
+	n = 6
+	o = 0
+
+***** measure_5 Trial #2-5 *****
+Trial_time 10:26:34
+
+perceived spacing horizontal
+Measure_time 10:27:28
+Subject selected: C
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 39
+	b = 24
+	c = 9
+	d = 33
+	e = 36
+	f = 3
+	g = 18
+	h = 42
+	i = 21
+	j = 0
+	k = 27
+	l = 15
+	m = 6
+	n = 30
+	o = 12
+
+***** video Trial #2-6 *****
+Trial_time 10:27:28
+
+Stimulus_time 10:30:30
+
+Video played for 3 min.
+
+***** measure_6 Trial #2-7 *****
+Trial_time 10:30:30
+
+perceived spacing horizontal
+Measure_time 10:30:58
+Subject selected: M
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 15
+	b = 12
+	c = 18
+	d = 6
+	e = 27
+	f = 39
+	g = 33
+	h = 42
+	i = 3
+	j = 30
+	k = 36
+	l = 21
+	m = 9
+	n = 0
+	o = 24
+
+***** measure_7 Trial #2-8 *****
+Trial_time 10:30:58
+
+perceived spacing horizontal
+Measure_time 10:31:38
+Subject selected: E
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 27
+	b = 12
+	c = 39
+	d = 6
+	e = 9
+	f = 36
+	g = 15
+	h = 30
+	i = 21
+	j = 42
+	k = 24
+	l = 3
+	m = 33
+	n = 0
+	o = 18
+
+***** measure_8 Trial #2-9 *****
+Trial_time 10:31:38
+
+perceived spacing horizontal
+Measure_time 10:32:24
+Subject selected: G
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 27
+	b = 12
+	c = 3
+	d = 39
+	e = 24
+	f = 21
+	g = 9
+	h = 36
+	i = 0
+	j = 42
+	k = 18
+	l = 6
+	m = 33
+	n = 15
+	o = 30
+
+***** measure_9 Trial #2-10 *****
+Trial_time 10:32:24
+
+perceived spacing horizontal
+Measure_time 10:33:04
+Subject selected: C
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 24
+	b = 21
+	c = 9
+	d = 3
+	e = 27
+	f = 42
+	g = 30
+	h = 39
+	i = 36
+	j = 15
+	k = 12
+	l = 6
+	m = 18
+	n = 0
+	o = 33
+
+***** measure_10 Trial #2-11 *****
+Trial_time 10:33:04
+
+perceived spacing horizontal
+Measure_time 10:33:51
+Subject selected: E
+Subject answer = 9
+Subject answer = 9
+Chart:
+	a = 39
+	b = 33
+	c = 0
+	d = 18
+	e = 9
+	f = 36
+	g = 42
+	h = 21
+	i = 15
+	j = 6
+	k = 12
+	l = 3
+	m = 24
+	n = 30
+	o = 27
+
+-------------------------------
+Location ipsilateral delay zero
+-------------------------------
+Block_time 10:33:51
+
+***** measure_1 Trial #3-1 *****
+Trial_time 10:38:08
+
+perceived location  horizontal ruler_2
+Measure_time 10:38:56
+Ruler number: ruler_2
+Ruler values:
+	gnj = -44.0
+	gnk = -43.2
+	gnl = -42.4
+	gnm = -41.6
+	gnn = -40.8
+	gno = -40.0
+	gnp = -39.2
+	gnq = -38.4
+	gnr = -37.6
+	gns = -36.8
+	gnt = -36.0
+	gnu = -35.2
+	gnv = -34.4
+	gnw = -33.6
+	gnx = -32.8
+	gny = -32.0
+	gnz = -31.2
+	ba = -30.4
+	bb = -29.6
+	bc = -28.8
+	bd = -28.0
+	be = -27.2
+	bf = -26.4
+	bg = -25.6
+	bh = -24.8
+	bi = -24.0
+	bj = -23.2
+	bk = -22.4
+	bl = -21.6
+	bm = -20.8
+	bn = -20.0
+	bo = -19.2
+	bp = -18.4
+	bq = -17.6
+	br = -16.8
+	bs = -16.0
+	bt = -15.2
+	bu = -14.4
+	bv = -13.6
+	bw = -12.8
+	bx = -12.0
+	by = -11.2
+	bz = -10.4
+	oa = -9.6
+	ob = -8.8
+	oc = -8.0
+	od = -7.2
+	oe = -6.4
+	of = -5.6
+	og = -4.8
+	oh = -4.0
+	oi = -3.2
+	oj = -2.4
+	ok = -1.6
+	ol = -0.8
+	om = 0.0
+	on = 0.8
+	oo = 1.6
+	op = 2.4
+	oq = 3.2
+	or = 4.0
+	os = 4.8
+	ot = 5.6
+	ou = 6.4
+	ov = 7.2
+	ow = 8.0
+	ox = 8.8
+	oy = 9.6
+	oz = 10.4
+	gya = 11.2
+	gyb = 12.0
+	gyc = 12.8
+	gyd = 13.6
+	gye = 14.4
+	gyf = 15.2
+	gyg = 16.0
+	gyh = 16.8
+	gyi = 17.6
+	gyj = 18.4
+	gyk = 19.2
+	gyl = 20.0
+	gym = 20.8
+	gyn = 21.6
+	gyo = 22.4
+	gyp = 23.2
+	gyq = 24.0
+	gyr = 24.8
+	gys = 25.6
+	gyt = 26.4
+	gyu = 27.2
+	gyv = 28.0
+	gyw = 28.8
+	gyx = 29.6
+	gyy = 30.4
+	gyz = 31.2
+	ra = 32.0
+	rb = 32.8
+	rc = 33.6
+	rd = 34.4
+	re = 35.2
+	rf = 36.0
+	rg = 36.8
+	rh = 37.6
+	ri = 38.4
+	rj = 39.2
+	rk = 40.0
+	rl = 40.8
+	rm = 41.6
+	rn = 42.4
+	ro = 43.2
+	rp = 44.0
+Subject selected: or
+Subject answer = 4.0
+
+***** measure_2 Trial #3-2 *****
+Trial_time 10:38:56
+
+perceived location  horizontal ruler_4
+Measure_time 10:39:20
+Ruler number: ruler_4
+Ruler values:
+	bx = -45.0
+	by = -44.0
+	bz = -43.0
+	oa = -42.0
+	ob = -41.0
+	oc = -40.0
+	od = -39.0
+	oe = -38.0
+	of = -37.0
+	og = -36.0
+	oh = -35.0
+	oi = -34.0
+	oj = -33.0
+	ok = -32.0
+	ol = -31.0
+	om = -30.0
+	on = -29.0
+	oo = -28.0
+	op = -27.0
+	oq = -26.0
+	or = -25.0
+	os = -24.0
+	ot = -23.0
+	ou = -22.0
+	ov = -21.0
+	ow = -20.0
+	ox = -19.0
+	oy = -18.0
+	oz = -17.0
+	gya = -16.0
+	gyb = -15.0
+	gyc = -14.0
+	gyd = -13.0
+	gye = -12.0
+	gyf = -11.0
+	gyg = -10.0
+	gyh = -9.0
+	gyi = -8.0
+	gyj = -7.0
+	gyk = -6.0
+	gyl = -5.0
+	gym = -4.0
+	gyn = -3.0
+	gyo = -2.0
+	gyp = -1.0
+	gyq = 0.0
+	gyr = 1.0
+	gys = 2.0
+	gyt = 3.0
+	gyu = 4.0
+	gyv = 5.0
+	gyw = 6.0
+	gyx = 7.0
+	gyy = 8.0
+	gyz = 9.0
+	gna = 10.0
+	gnb = 11.0
+	gnc = 12.0
+	gnd = 13.0
+	gne = 14.0
+	gnf = 15.0
+	gng = 16.0
+	gnh = 17.0
+	gni = 18.0
+	gnj = 19.0
+	gnk = 20.0
+	gnl = 21.0
+	gnm = 22.0
+	gnn = 23.0
+	gno = 24.0
+	gnp = 25.0
+	gnq = 26.0
+	gnr = 27.0
+	gns = 28.0
+	gnt = 29.0
+	gnu = 30.0
+	gnv = 31.0
+	gnw = 32.0
+	gnx = 33.0
+	gny = 34.0
+	gnz = 35.0
+	ra = 36.0
+	rb = 37.0
+	rc = 38.0
+	rd = 39.0
+	re = 40.0
+	rf = 41.0
+	rg = 42.0
+	rh = 43.0
+Subject selected: gyu
+Subject answer = 4.0
+
+***** measure_3 Trial #3-3 *****
+Trial_time 10:39:20
+
+perceived location  horizontal ruler_10
+Measure_time 10:40:05
+Ruler number: ruler_10
+Ruler values:
+	ou = -44.4
+	ov = -43.2
+	ow = -42.0
+	ox = -40.8
+	oy = -39.6
+	oz = -38.4
+	gna = -37.2
+	gnb = -36.0
+	gnc = -34.8
+	gnd = -33.6
+	gne = -32.4
+	gnf = -31.2
+	gng = -30.0
+	gnh = -28.8
+	gni = -27.6
+	gnj = -26.4
+	gnk = -25.2
+	gnl = -24.0
+	gnm = -22.8
+	gnn = -21.6
+	gno = -20.4
+	gnp = -19.2
+	gnq = -18.0
+	gnr = -16.8
+	gns = -15.6
+	gnt = -14.4
+	gnu = -13.2
+	gnv = -12.0
+	gnw = -10.8
+	gnx = -9.6
+	gny = -8.4
+	gnz = -7.2
+	ba = -6.0
+	bb = -4.8
+	bc = -3.6
+	bd = -2.4
+	be = -1.2
+	bf = 0.0
+	bg = 1.2
+	bh = 2.4
+	bi = 3.6
+	bj = 4.8
+	bk = 6.0
+	bl = 7.2
+	bm = 8.4
+	bn = 9.6
+	bo = 10.8
+	bp = 12.0
+	bq = 13.2
+	br = 14.4
+	bs = 15.6
+	bt = 16.8
+	bu = 18.0
+	bv = 19.2
+	bw = 20.4
+	bx = 21.6
+	by = 22.8
+	bz = 24.0
+	gya = 25.2
+	gyb = 26.4
+	gyc = 27.6
+	gyd = 28.8
+	gye = 30.0
+	gyf = 31.2
+	gyg = 32.4
+	gyh = 33.6
+	gyi = 34.8
+	gyj = 36.0
+	gyk = 37.2
+	gyl = 38.4
+	gym = 39.6
+	gyn = 40.8
+	gyo = 42.0
+	gyp = 43.2
+	gyq = 44.4
+Subject selected: bi
+Subject answer = 3.6
+
+***** measure_4 Trial #3-4 *****
+Trial_time 10:40:05
+
+perceived location  horizontal ruler_8
+Measure_time 10:40:22
+Ruler number: ruler_8
+Ruler values:
+	bc = -43.2
+	bd = -42.0
+	be = -40.8
+	bf = -39.6
+	bg = -38.4
+	bh = -37.2
+	bi = -36.0
+	bj = -34.8
+	bk = -33.6
+	bl = -32.4
+	bm = -31.2
+	bn = -30.0
+	bo = -28.8
+	bp = -27.6
+	bq = -26.4
+	br = -25.2
+	bs = -24.0
+	bt = -22.8
+	bu = -21.6
+	bv = -20.4
+	bw = -19.2
+	bx = -18.0
+	by = -16.8
+	bz = -15.6
+	ra = -14.4
+	rb = -13.2
+	rc = -12.0
+	rd = -10.8
+	re = -9.6
+	rf = -8.4
+	rg = -7.2
+	rh = -6.0
+	ri = -4.8
+	rj = -3.6
+	rk = -2.4
+	rl = -1.2
+	rm = 0.0
+	rn = 1.2
+	ro = 2.4
+	rp = 3.6
+	rq = 4.8
+	rr = 6.0
+	rs = 7.2
+	rt = 8.4
+	ru = 9.6
+	rv = 10.8
+	rw = 12.0
+	rx = 13.2
+	ry = 14.4
+	rz = 15.6
+	gya = 16.8
+	gyb = 18.0
+	gyc = 19.2
+	gyd = 20.4
+	gye = 21.6
+	gyf = 22.8
+	gyg = 24.0
+	gyh = 25.2
+	gyi = 26.4
+	gyj = 27.6
+	gyk = 28.8
+	gyl = 30.0
+	gym = 31.2
+	gyn = 32.4
+	gyo = 33.6
+	gyp = 34.8
+	gyq = 36.0
+	gyr = 37.2
+	gys = 38.4
+	gyt = 39.6
+	gyu = 40.8
+	gyv = 42.0
+	gyw = 43.2
+	gyx = 44.4
+	gyy = 45.6
+Subject selected: rp
+Subject answer = 3.6
+
+***** measure_5 Trial #3-5 *****
+Trial_time 10:40:22
+
+perceived location  horizontal ruler_6
+Measure_time 10:40:47
+Ruler number: ruler_6
+Ruler values:
+	gne = -43.0
+	gnf = -42.0
+	gng = -41.0
+	gnh = -40.0
+	gni = -39.0
+	gnj = -38.0
+	gnk = -37.0
+	gnl = -36.0
+	gnm = -35.0
+	gnn = -34.0
+	gno = -33.0
+	gnp = -32.0
+	gnq = -31.0
+	gnr = -30.0
+	gns = -29.0
+	gnt = -28.0
+	gnu = -27.0
+	gnv = -26.0
+	gnw = -25.0
+	gnx = -24.0
+	gny = -23.0
+	gnz = -22.0
+	ba = -21.0
+	bb = -20.0
+	bc = -19.0
+	bd = -18.0
+	be = -17.0
+	bf = -16.0
+	bg = -15.0
+	bh = -14.0
+	bi = -13.0
+	bj = -12.0
+	bk = -11.0
+	bl = -10.0
+	bm = -9.0
+	bn = -8.0
+	bo = -7.0
+	bp = -6.0
+	bq = -5.0
+	br = -4.0
+	bs = -3.0
+	bt = -2.0
+	bu = -1.0
+	bv = 0.0
+	bw = 1.0
+	bx = 2.0
+	by = 3.0
+	bz = 4.0
+	ra = 5.0
+	rb = 6.0
+	rc = 7.0
+	rd = 8.0
+	re = 9.0
+	rf = 10.0
+	rg = 11.0
+	rh = 12.0
+	ri = 13.0
+	rj = 14.0
+	rk = 15.0
+	rl = 16.0
+	rm = 17.0
+	rn = 18.0
+	ro = 19.0
+	rp = 20.0
+	rq = 21.0
+	rr = 22.0
+	rs = 23.0
+	rt = 24.0
+	ru = 25.0
+	rv = 26.0
+	rw = 27.0
+	rx = 28.0
+	ry = 29.0
+	rz = 30.0
+	gya = 31.0
+	gyb = 32.0
+	gyc = 33.0
+	gyd = 34.0
+	gye = 35.0
+	gyf = 36.0
+	gyg = 37.0
+	gyh = 38.0
+	gyi = 39.0
+	gyj = 40.0
+	gyk = 41.0
+	gyl = 42.0
+	gym = 43.0
+	gyn = 44.0
+	gyo = 45.0
+Subject selected: by
+Subject answer = 3.0
+
+***** measure_6 Trial #3-6 *****
+Trial_time 10:40:47
+
+perceived location  horizontal ruler_1
+Measure_time 10:41:14
+Ruler number: ruler_1
+Ruler values:
+	gym = -43.2
+	gyn = -42.4
+	gyo = -41.6
+	gyp = -40.8
+	gyq = -40.0
+	gyr = -39.2
+	gys = -38.4
+	gyt = -37.6
+	gyu = -36.8
+	gyv = -36.0
+	gyw = -35.2
+	gyx = -34.4
+	gyy = -33.6
+	gyz = -32.8
+	ra = -32.0
+	rb = -31.2
+	rc = -30.4
+	rd = -29.6
+	re = -28.8
+	rf = -28.0
+	rg = -27.2
+	rh = -26.4
+	ri = -25.6
+	rj = -24.8
+	rk = -24.0
+	rl = -23.2
+	rm = -22.4
+	rn = -21.6
+	ro = -20.8
+	rp = -20.0
+	rq = -19.2
+	rr = -18.4
+	rs = -17.6
+	rt = -16.8
+	ru = -16.0
+	rv = -15.2
+	rw = -14.4
+	rx = -13.6
+	ry = -12.8
+	rz = -12.0
+	gna = -11.2
+	gnb = -10.4
+	gnc = -9.6
+	gnd = -8.8
+	gne = -8.0
+	gnf = -7.2
+	gng = -6.4
+	gnh = -5.6
+	gni = -4.8
+	gnj = -4.0
+	gnk = -3.2
+	gnl = -2.4
+	gnm = -1.6
+	gnn = -0.8
+	gno = 0.0
+	gnp = 0.8
+	gnq = 1.6
+	gnr = 2.4
+	gns = 3.2
+	gnt = 4.0
+	gnu = 4.8
+	gnv = 5.6
+	gnw = 6.4
+	gnx = 7.2
+	gny = 8.0
+	gnz = 8.8
+	oa = 9.6
+	ob = 10.4
+	oc = 11.2
+	od = 12.0
+	oe = 12.8
+	of = 13.6
+	og = 14.4
+	oh = 15.2
+	oi = 16.0
+	oj = 16.8
+	ok = 17.6
+	ol = 18.4
+	om = 19.2
+	on = 20.0
+	oo = 20.8
+	op = 21.6
+	oq = 22.4
+	or = 23.2
+	os = 24.0
+	ot = 24.8
+	ou = 25.6
+	ov = 26.4
+	ow = 27.2
+	ox = 28.0
+	oy = 28.8
+	oz = 29.6
+	ba = 30.4
+	bb = 31.2
+	bc = 32.0
+	bd = 32.8
+	be = 33.6
+	bf = 34.4
+	bg = 35.2
+	bh = 36.0
+	bi = 36.8
+	bj = 37.6
+	bk = 38.4
+	bl = 39.2
+	bm = 40.0
+	bn = 40.8
+	bo = 41.6
+	bp = 42.4
+	bq = 43.2
+	br = 44.0
+	bs = 44.8
+Subject selected: gns
+Subject answer = 3.2
+
+***** measure_7 Trial #3-7 *****
+Trial_time 10:41:14
+
+perceived location  horizontal ruler_9
+Measure_time 10:41:48
+Ruler number: ruler_9
+Ruler values:
+	bt = -43.2
+	bu = -42.0
+	bv = -40.8
+	bw = -39.6
+	bx = -38.4
+	by = -37.2
+	bz = -36.0
+	gya = -34.8
+	gyb = -33.6
+	gyc = -32.4
+	gyd = -31.2
+	gye = -30.0
+	gyf = -28.8
+	gyg = -27.6
+	gyh = -26.4
+	gyi = -25.2
+	gyj = -24.0
+	gyk = -22.8
+	gyl = -21.6
+	gym = -20.4
+	gyn = -19.2
+	gyo = -18.0
+	gyp = -16.8
+	gyq = -15.6
+	gyr = -14.4
+	gys = -13.2
+	gyt = -12.0
+	gyu = -10.8
+	gyv = -9.6
+	gyw = -8.4
+	gyx = -7.2
+	gyy = -6.0
+	gyz = -4.8
+	gna = -3.6
+	gnb = -2.4
+	gnc = -1.2
+	gnd = 0.0
+	gne = 1.2
+	gnf = 2.4
+	gng = 3.6
+	gnh = 4.8
+	gni = 6.0
+	gnj = 7.2
+	gnk = 8.4
+	gnl = 9.6
+	gnm = 10.8
+	gnn = 12.0
+	gno = 13.2
+	gnp = 14.4
+	gnq = 15.6
+	gnr = 16.8
+	gns = 18.0
+	gnt = 19.2
+	gnu = 20.4
+	gnv = 21.6
+	gnw = 22.8
+	gnx = 24.0
+	gny = 25.2
+	gnz = 26.4
+	ra = 27.6
+	rb = 28.8
+	rc = 30.0
+	rd = 31.2
+	re = 32.4
+	rf = 33.6
+	rg = 34.8
+	rh = 36.0
+	ri = 37.2
+	rj = 38.4
+	rk = 39.6
+	rl = 40.8
+	rm = 42.0
+	rn = 43.2
+	ro = 44.4
+	rp = 45.6
+Subject selected: gng
+Subject answer = 3.6
+
+***** measure_8 Trial #3-8 *****
+Trial_time 10:41:48
+
+perceived location  horizontal ruler_5
+Measure_time 10:42:24
+Ruler number: ruler_5
+Ruler values:
+	rl = -43.0
+	rm = -42.0
+	rn = -41.0
+	ro = -40.0
+	rp = -39.0
+	rq = -38.0
+	rr = -37.0
+	rs = -36.0
+	rt = -35.0
+	ru = -34.0
+	rv = -33.0
+	rw = -32.0
+	rx = -31.0
+	ry = -30.0
+	rz = -29.0
+	gna = -28.0
+	gnb = -27.0
+	gnc = -26.0
+	gnd = -25.0
+	gne = -24.0
+	gnf = -23.0
+	gng = -22.0
+	gnh = -21.0
+	gni = -20.0
+	gnj = -19.0
+	gnk = -18.0
+	gnl = -17.0
+	gnm = -16.0
+	gnn = -15.0
+	gno = -14.0
+	gnp = -13.0
+	gnq = -12.0
+	gnr = -11.0
+	gns = -10.0
+	gnt = -9.0
+	gnu = -8.0
+	gnv = -7.0
+	gnw = -6.0
+	gnx = -5.0
+	gny = -4.0
+	gnz = -3.0
+	oa = -2.0
+	ob = -1.0
+	oc = 0.0
+	od = 1.0
+	oe = 2.0
+	of = 3.0
+	og = 4.0
+	oh = 5.0
+	oi = 6.0
+	oj = 7.0
+	ok = 8.0
+	ol = 9.0
+	om = 10.0
+	on = 11.0
+	oo = 12.0
+	op = 13.0
+	oq = 14.0
+	or = 15.0
+	os = 16.0
+	ot = 17.0
+	ou = 18.0
+	ov = 19.0
+	ow = 20.0
+	ox = 21.0
+	oy = 22.0
+	oz = 23.0
+	ba = 24.0
+	bb = 25.0
+	bc = 26.0
+	bd = 27.0
+	be = 28.0
+	bf = 29.0
+	bg = 30.0
+	bh = 31.0
+	bi = 32.0
+	bj = 33.0
+	bk = 34.0
+	bl = 35.0
+	bm = 36.0
+	bn = 37.0
+	bo = 38.0
+	bp = 39.0
+	bq = 40.0
+	br = 41.0
+	bs = 42.0
+	bt = 43.0
+	bu = 44.0
+	bv = 45.0
+Subject selected: og
+Subject answer = 4.0
+
+***** measure_9 Trial #3-9 *****
+Trial_time 10:42:24
+
+perceived location  horizontal ruler_7
+Measure_time 10:42:59
+Ruler number: ruler_7
+Ruler values:
+	rh = -44.4
+	ri = -43.2
+	rj = -42.0
+	rk = -40.8
+	rl = -39.6
+	rm = -38.4
+	rn = -37.2
+	ro = -36.0
+	rp = -34.8
+	rq = -33.6
+	rr = -32.4
+	rs = -31.2
+	rt = -30.0
+	ru = -28.8
+	rv = -27.6
+	rw = -26.4
+	rx = -25.2
+	ry = -24.0
+	rz = -22.8
+	gya = -21.6
+	gyb = -20.4
+	gyc = -19.2
+	gyd = -18.0
+	gye = -16.8
+	gyf = -15.6
+	gyg = -14.4
+	gyh = -13.2
+	gyi = -12.0
+	gyj = -10.8
+	gyk = -9.6
+	gyl = -8.4
+	gym = -7.2
+	gyn = -6.0
+	gyo = -4.8
+	gyp = -3.6
+	gyq = -2.4
+	gyr = -1.2
+	gys = 0.0
+	gyt = 1.2
+	gyu = 2.4
+	gyv = 3.6
+	gyw = 4.8
+	gyx = 6.0
+	gyy = 7.2
+	gyz = 8.4
+	ba = 9.6
+	bb = 10.8
+	bc = 12.0
+	bd = 13.2
+	be = 14.4
+	bf = 15.6
+	bg = 16.8
+	bh = 18.0
+	bi = 19.2
+	bj = 20.4
+	bk = 21.6
+	bl = 22.8
+	bm = 24.0
+	bn = 25.2
+	bo = 26.4
+	bp = 27.6
+	bq = 28.8
+	br = 30.0
+	bs = 31.2
+	bt = 32.4
+	bu = 33.6
+	bv = 34.8
+	bw = 36.0
+	bx = 37.2
+	by = 38.4
+	bz = 39.6
+	gna = 40.8
+	gnb = 42.0
+	gnc = 43.2
+	gnd = 44.4
+Subject selected: gyu
+Subject answer = 2.4
+
+***** measure_10 Trial #3-10 *****
+Trial_time 10:42:59
+
+perceived location  horizontal ruler_3
+Measure_time 10:43:14
+Ruler number: ruler_3
+Ruler values:
+	br = -43.2
+	bs = -42.4
+	bt = -41.6
+	bu = -40.8
+	bv = -40.0
+	bw = -39.2
+	bx = -38.4
+	by = -37.6
+	bz = -36.8
+	oa = -36.0
+	ob = -35.2
+	oc = -34.4
+	od = -33.6
+	oe = -32.8
+	of = -32.0
+	og = -31.2
+	oh = -30.4
+	oi = -29.6
+	oj = -28.8
+	ok = -28.0
+	ol = -27.2
+	om = -26.4
+	on = -25.6
+	oo = -24.8
+	op = -24.0
+	oq = -23.2
+	or = -22.4
+	os = -21.6
+	ot = -20.8
+	ou = -20.0
+	ov = -19.2
+	ow = -18.4
+	ox = -17.6
+	oy = -16.8
+	oz = -16.0
+	gya = -15.2
+	gyb = -14.4
+	gyc = -13.6
+	gyd = -12.8
+	gye = -12.0
+	gyf = -11.2
+	gyg = -10.4
+	gyh = -9.6
+	gyi = -8.8
+	gyj = -8.0
+	gyk = -7.2
+	gyl = -6.4
+	gym = -5.6
+	gyn = -4.8
+	gyo = -4.0
+	gyp = -3.2
+	gyq = -2.4
+	gyr = -1.6
+	gys = -0.8
+	gyt = 0.0
+	gyu = 0.8
+	gyv = 1.6
+	gyw = 2.4
+	gyx = 3.2
+	gyy = 4.0
+	gyz = 4.8
+	ra = 5.6
+	rb = 6.4
+	rc = 7.2
+	rd = 8.0
+	re = 8.8
+	rf = 9.6
+	rg = 10.4
+	rh = 11.2
+	ri = 12.0
+	rj = 12.8
+	rk = 13.6
+	rl = 14.4
+	rm = 15.2
+	rn = 16.0
+	ro = 16.8
+	rp = 17.6
+	rq = 18.4
+	rr = 19.2
+	rs = 20.0
+	rt = 20.8
+	ru = 21.6
+	rv = 22.4
+	rw = 23.2
+	rx = 24.0
+	ry = 24.8
+	rz = 25.6
+	gna = 26.4
+	gnb = 27.2
+	gnc = 28.0
+	gnd = 28.8
+	gne = 29.6
+	gnf = 30.4
+	gng = 31.2
+	gnh = 32.0
+	gni = 32.8
+	gnj = 33.6
+	gnk = 34.4
+	gnl = 35.2
+	gnm = 36.0
+	gnn = 36.8
+	gno = 37.6
+	gnp = 38.4
+	gnq = 39.2
+	gnr = 40.0
+	gns = 40.8
+	gnt = 41.6
+	gnu = 42.4
+	gnv = 43.2
+	gnw = 44.0
+	gnx = 44.8
+Subject selected: gyw
+Subject answer = 2.4
+
+-------------------------------
+Location ipsilateral delay 3min
+-------------------------------
+Block_time 10:43:14
+
+***** measure_1 Trial #4-1 *****
+Trial_time 10:47:17
+
+perceived location  horizontal ruler_3
+Measure_time 10:47:56
+Ruler number: ruler_3
+Ruler values:
+	br = -43.2
+	bs = -42.4
+	bt = -41.6
+	bu = -40.8
+	bv = -40.0
+	bw = -39.2
+	bx = -38.4
+	by = -37.6
+	bz = -36.8
+	oa = -36.0
+	ob = -35.2
+	oc = -34.4
+	od = -33.6
+	oe = -32.8
+	of = -32.0
+	og = -31.2
+	oh = -30.4
+	oi = -29.6
+	oj = -28.8
+	ok = -28.0
+	ol = -27.2
+	om = -26.4
+	on = -25.6
+	oo = -24.8
+	op = -24.0
+	oq = -23.2
+	or = -22.4
+	os = -21.6
+	ot = -20.8
+	ou = -20.0
+	ov = -19.2
+	ow = -18.4
+	ox = -17.6
+	oy = -16.8
+	oz = -16.0
+	gya = -15.2
+	gyb = -14.4
+	gyc = -13.6
+	gyd = -12.8
+	gye = -12.0
+	gyf = -11.2
+	gyg = -10.4
+	gyh = -9.6
+	gyi = -8.8
+	gyj = -8.0
+	gyk = -7.2
+	gyl = -6.4
+	gym = -5.6
+	gyn = -4.8
+	gyo = -4.0
+	gyp = -3.2
+	gyq = -2.4
+	gyr = -1.6
+	gys = -0.8
+	gyt = 0.0
+	gyu = 0.8
+	gyv = 1.6
+	gyw = 2.4
+	gyx = 3.2
+	gyy = 4.0
+	gyz = 4.8
+	ra = 5.6
+	rb = 6.4
+	rc = 7.2
+	rd = 8.0
+	re = 8.8
+	rf = 9.6
+	rg = 10.4
+	rh = 11.2
+	ri = 12.0
+	rj = 12.8
+	rk = 13.6
+	rl = 14.4
+	rm = 15.2
+	rn = 16.0
+	ro = 16.8
+	rp = 17.6
+	rq = 18.4
+	rr = 19.2
+	rs = 20.0
+	rt = 20.8
+	ru = 21.6
+	rv = 22.4
+	rw = 23.2
+	rx = 24.0
+	ry = 24.8
+	rz = 25.6
+	gna = 26.4
+	gnb = 27.2
+	gnc = 28.0
+	gnd = 28.8
+	gne = 29.6
+	gnf = 30.4
+	gng = 31.2
+	gnh = 32.0
+	gni = 32.8
+	gnj = 33.6
+	gnk = 34.4
+	gnl = 35.2
+	gnm = 36.0
+	gnn = 36.8
+	gno = 37.6
+	gnp = 38.4
+	gnq = 39.2
+	gnr = 40.0
+	gns = 40.8
+	gnt = 41.6
+	gnu = 42.4
+	gnv = 43.2
+	gnw = 44.0
+	gnx = 44.8
+Subject selected: ra
+Subject answer = 5.6
+
+***** measure_2 Trial #4-2 *****
+Trial_time 10:47:56
+
+perceived location  horizontal ruler_6
+Measure_time 10:48:40
+Ruler number: ruler_6
+Ruler values:
+	gne = -43.0
+	gnf = -42.0
+	gng = -41.0
+	gnh = -40.0
+	gni = -39.0
+	gnj = -38.0
+	gnk = -37.0
+	gnl = -36.0
+	gnm = -35.0
+	gnn = -34.0
+	gno = -33.0
+	gnp = -32.0
+	gnq = -31.0
+	gnr = -30.0
+	gns = -29.0
+	gnt = -28.0
+	gnu = -27.0
+	gnv = -26.0
+	gnw = -25.0
+	gnx = -24.0
+	gny = -23.0
+	gnz = -22.0
+	ba = -21.0
+	bb = -20.0
+	bc = -19.0
+	bd = -18.0
+	be = -17.0
+	bf = -16.0
+	bg = -15.0
+	bh = -14.0
+	bi = -13.0
+	bj = -12.0
+	bk = -11.0
+	bl = -10.0
+	bm = -9.0
+	bn = -8.0
+	bo = -7.0
+	bp = -6.0
+	bq = -5.0
+	br = -4.0
+	bs = -3.0
+	bt = -2.0
+	bu = -1.0
+	bv = 0.0
+	bw = 1.0
+	bx = 2.0
+	by = 3.0
+	bz = 4.0
+	ra = 5.0
+	rb = 6.0
+	rc = 7.0
+	rd = 8.0
+	re = 9.0
+	rf = 10.0
+	rg = 11.0
+	rh = 12.0
+	ri = 13.0
+	rj = 14.0
+	rk = 15.0
+	rl = 16.0
+	rm = 17.0
+	rn = 18.0
+	ro = 19.0
+	rp = 20.0
+	rq = 21.0
+	rr = 22.0
+	rs = 23.0
+	rt = 24.0
+	ru = 25.0
+	rv = 26.0
+	rw = 27.0
+	rx = 28.0
+	ry = 29.0
+	rz = 30.0
+	gya = 31.0
+	gyb = 32.0
+	gyc = 33.0
+	gyd = 34.0
+	gye = 35.0
+	gyf = 36.0
+	gyg = 37.0
+	gyh = 38.0
+	gyi = 39.0
+	gyj = 40.0
+	gyk = 41.0
+	gyl = 42.0
+	gym = 43.0
+	gyn = 44.0
+	gyo = 45.0
+Subject selected: ra
+Subject answer = 5.0
+
+***** measure_3 Trial #4-3 *****
+Trial_time 10:48:40
+
+perceived location  horizontal ruler_8
+Measure_time 10:49:14
+Ruler number: ruler_8
+Ruler values:
+	bc = -43.2
+	bd = -42.0
+	be = -40.8
+	bf = -39.6
+	bg = -38.4
+	bh = -37.2
+	bi = -36.0
+	bj = -34.8
+	bk = -33.6
+	bl = -32.4
+	bm = -31.2
+	bn = -30.0
+	bo = -28.8
+	bp = -27.6
+	bq = -26.4
+	br = -25.2
+	bs = -24.0
+	bt = -22.8
+	bu = -21.6
+	bv = -20.4
+	bw = -19.2
+	bx = -18.0
+	by = -16.8
+	bz = -15.6
+	ra = -14.4
+	rb = -13.2
+	rc = -12.0
+	rd = -10.8
+	re = -9.6
+	rf = -8.4
+	rg = -7.2
+	rh = -6.0
+	ri = -4.8
+	rj = -3.6
+	rk = -2.4
+	rl = -1.2
+	rm = 0.0
+	rn = 1.2
+	ro = 2.4
+	rp = 3.6
+	rq = 4.8
+	rr = 6.0
+	rs = 7.2
+	rt = 8.4
+	ru = 9.6
+	rv = 10.8
+	rw = 12.0
+	rx = 13.2
+	ry = 14.4
+	rz = 15.6
+	gya = 16.8
+	gyb = 18.0
+	gyc = 19.2
+	gyd = 20.4
+	gye = 21.6
+	gyf = 22.8
+	gyg = 24.0
+	gyh = 25.2
+	gyi = 26.4
+	gyj = 27.6
+	gyk = 28.8
+	gyl = 30.0
+	gym = 31.2
+	gyn = 32.4
+	gyo = 33.6
+	gyp = 34.8
+	gyq = 36.0
+	gyr = 37.2
+	gys = 38.4
+	gyt = 39.6
+	gyu = 40.8
+	gyv = 42.0
+	gyw = 43.2
+	gyx = 44.4
+	gyy = 45.6
+Subject selected: rq
+Subject answer = 4.8
+
+***** measure_4 Trial #4-4 *****
+Trial_time 10:49:14
+
+perceived location  horizontal ruler_4
+Measure_time 10:49:49
+Ruler number: ruler_4
+Ruler values:
+	bx = -45.0
+	by = -44.0
+	bz = -43.0
+	oa = -42.0
+	ob = -41.0
+	oc = -40.0
+	od = -39.0
+	oe = -38.0
+	of = -37.0
+	og = -36.0
+	oh = -35.0
+	oi = -34.0
+	oj = -33.0
+	ok = -32.0
+	ol = -31.0
+	om = -30.0
+	on = -29.0
+	oo = -28.0
+	op = -27.0
+	oq = -26.0
+	or = -25.0
+	os = -24.0
+	ot = -23.0
+	ou = -22.0
+	ov = -21.0
+	ow = -20.0
+	ox = -19.0
+	oy = -18.0
+	oz = -17.0
+	gya = -16.0
+	gyb = -15.0
+	gyc = -14.0
+	gyd = -13.0
+	gye = -12.0
+	gyf = -11.0
+	gyg = -10.0
+	gyh = -9.0
+	gyi = -8.0
+	gyj = -7.0
+	gyk = -6.0
+	gyl = -5.0
+	gym = -4.0
+	gyn = -3.0
+	gyo = -2.0
+	gyp = -1.0
+	gyq = 0.0
+	gyr = 1.0
+	gys = 2.0
+	gyt = 3.0
+	gyu = 4.0
+	gyv = 5.0
+	gyw = 6.0
+	gyx = 7.0
+	gyy = 8.0
+	gyz = 9.0
+	gna = 10.0
+	gnb = 11.0
+	gnc = 12.0
+	gnd = 13.0
+	gne = 14.0
+	gnf = 15.0
+	gng = 16.0
+	gnh = 17.0
+	gni = 18.0
+	gnj = 19.0
+	gnk = 20.0
+	gnl = 21.0
+	gnm = 22.0
+	gnn = 23.0
+	gno = 24.0
+	gnp = 25.0
+	gnq = 26.0
+	gnr = 27.0
+	gns = 28.0
+	gnt = 29.0
+	gnu = 30.0
+	gnv = 31.0
+	gnw = 32.0
+	gnx = 33.0
+	gny = 34.0
+	gnz = 35.0
+	ra = 36.0
+	rb = 37.0
+	rc = 38.0
+	rd = 39.0
+	re = 40.0
+	rf = 41.0
+	rg = 42.0
+	rh = 43.0
+Subject selected: gyt
+Subject answer = 3.0
+
+***** measure_5 Trial #4-5 *****
+Trial_time 10:49:49
+
+perceived location  horizontal ruler_5
+Measure_time 10:50:27
+Ruler number: ruler_5
+Ruler values:
+	rl = -43.0
+	rm = -42.0
+	rn = -41.0
+	ro = -40.0
+	rp = -39.0
+	rq = -38.0
+	rr = -37.0
+	rs = -36.0
+	rt = -35.0
+	ru = -34.0
+	rv = -33.0
+	rw = -32.0
+	rx = -31.0
+	ry = -30.0
+	rz = -29.0
+	gna = -28.0
+	gnb = -27.0
+	gnc = -26.0
+	gnd = -25.0
+	gne = -24.0
+	gnf = -23.0
+	gng = -22.0
+	gnh = -21.0
+	gni = -20.0
+	gnj = -19.0
+	gnk = -18.0
+	gnl = -17.0
+	gnm = -16.0
+	gnn = -15.0
+	gno = -14.0
+	gnp = -13.0
+	gnq = -12.0
+	gnr = -11.0
+	gns = -10.0
+	gnt = -9.0
+	gnu = -8.0
+	gnv = -7.0
+	gnw = -6.0
+	gnx = -5.0
+	gny = -4.0
+	gnz = -3.0
+	oa = -2.0
+	ob = -1.0
+	oc = 0.0
+	od = 1.0
+	oe = 2.0
+	of = 3.0
+	og = 4.0
+	oh = 5.0
+	oi = 6.0
+	oj = 7.0
+	ok = 8.0
+	ol = 9.0
+	om = 10.0
+	on = 11.0
+	oo = 12.0
+	op = 13.0
+	oq = 14.0
+	or = 15.0
+	os = 16.0
+	ot = 17.0
+	ou = 18.0
+	ov = 19.0
+	ow = 20.0
+	ox = 21.0
+	oy = 22.0
+	oz = 23.0
+	ba = 24.0
+	bb = 25.0
+	bc = 26.0
+	bd = 27.0
+	be = 28.0
+	bf = 29.0
+	bg = 30.0
+	bh = 31.0
+	bi = 32.0
+	bj = 33.0
+	bk = 34.0
+	bl = 35.0
+	bm = 36.0
+	bn = 37.0
+	bo = 38.0
+	bp = 39.0
+	bq = 40.0
+	br = 41.0
+	bs = 42.0
+	bt = 43.0
+	bu = 44.0
+	bv = 45.0
+Subject selected: og
+Subject answer = 4.0
+
+***** video Trial #4-6 *****
+Trial_time 10:50:27
+
+Stimulus_time 10:53:28
+
+Video played for 3 min.
+
+***** measure_6 Trial #4-7 *****
+Trial_time 10:53:28
+
+perceived location  horizontal ruler_1
+Measure_time 10:54:09
+Ruler number: ruler_1
+Ruler values:
+	gym = -43.2
+	gyn = -42.4
+	gyo = -41.6
+	gyp = -40.8
+	gyq = -40.0
+	gyr = -39.2
+	gys = -38.4
+	gyt = -37.6
+	gyu = -36.8
+	gyv = -36.0
+	gyw = -35.2
+	gyx = -34.4
+	gyy = -33.6
+	gyz = -32.8
+	ra = -32.0
+	rb = -31.2
+	rc = -30.4
+	rd = -29.6
+	re = -28.8
+	rf = -28.0
+	rg = -27.2
+	rh = -26.4
+	ri = -25.6
+	rj = -24.8
+	rk = -24.0
+	rl = -23.2
+	rm = -22.4
+	rn = -21.6
+	ro = -20.8
+	rp = -20.0
+	rq = -19.2
+	rr = -18.4
+	rs = -17.6
+	rt = -16.8
+	ru = -16.0
+	rv = -15.2
+	rw = -14.4
+	rx = -13.6
+	ry = -12.8
+	rz = -12.0
+	gna = -11.2
+	gnb = -10.4
+	gnc = -9.6
+	gnd = -8.8
+	gne = -8.0
+	gnf = -7.2
+	gng = -6.4
+	gnh = -5.6
+	gni = -4.8
+	gnj = -4.0
+	gnk = -3.2
+	gnl = -2.4
+	gnm = -1.6
+	gnn = -0.8
+	gno = 0.0
+	gnp = 0.8
+	gnq = 1.6
+	gnr = 2.4
+	gns = 3.2
+	gnt = 4.0
+	gnu = 4.8
+	gnv = 5.6
+	gnw = 6.4
+	gnx = 7.2
+	gny = 8.0
+	gnz = 8.8
+	oa = 9.6
+	ob = 10.4
+	oc = 11.2
+	od = 12.0
+	oe = 12.8
+	of = 13.6
+	og = 14.4
+	oh = 15.2
+	oi = 16.0
+	oj = 16.8
+	ok = 17.6
+	ol = 18.4
+	om = 19.2
+	on = 20.0
+	oo = 20.8
+	op = 21.6
+	oq = 22.4
+	or = 23.2
+	os = 24.0
+	ot = 24.8
+	ou = 25.6
+	ov = 26.4
+	ow = 27.2
+	ox = 28.0
+	oy = 28.8
+	oz = 29.6
+	ba = 30.4
+	bb = 31.2
+	bc = 32.0
+	bd = 32.8
+	be = 33.6
+	bf = 34.4
+	bg = 35.2
+	bh = 36.0
+	bi = 36.8
+	bj = 37.6
+	bk = 38.4
+	bl = 39.2
+	bm = 40.0
+	bn = 40.8
+	bo = 41.6
+	bp = 42.4
+	bq = 43.2
+	br = 44.0
+	bs = 44.8
+Subject selected: gnt
+Subject answer = 4.0
+
+***** measure_7 Trial #4-8 *****
+Trial_time 10:54:09
+
+perceived location  horizontal ruler_2
+Measure_time 10:54:50
+Ruler number: ruler_2
+Ruler values:
+	gnj = -44.0
+	gnk = -43.2
+	gnl = -42.4
+	gnm = -41.6
+	gnn = -40.8
+	gno = -40.0
+	gnp = -39.2
+	gnq = -38.4
+	gnr = -37.6
+	gns = -36.8
+	gnt = -36.0
+	gnu = -35.2
+	gnv = -34.4
+	gnw = -33.6
+	gnx = -32.8
+	gny = -32.0
+	gnz = -31.2
+	ba = -30.4
+	bb = -29.6
+	bc = -28.8
+	bd = -28.0
+	be = -27.2
+	bf = -26.4
+	bg = -25.6
+	bh = -24.8
+	bi = -24.0
+	bj = -23.2
+	bk = -22.4
+	bl = -21.6
+	bm = -20.8
+	bn = -20.0
+	bo = -19.2
+	bp = -18.4
+	bq = -17.6
+	br = -16.8
+	bs = -16.0
+	bt = -15.2
+	bu = -14.4
+	bv = -13.6
+	bw = -12.8
+	bx = -12.0
+	by = -11.2
+	bz = -10.4
+	oa = -9.6
+	ob = -8.8
+	oc = -8.0
+	od = -7.2
+	oe = -6.4
+	of = -5.6
+	og = -4.8
+	oh = -4.0
+	oi = -3.2
+	oj = -2.4
+	ok = -1.6
+	ol = -0.8
+	om = 0.0
+	on = 0.8
+	oo = 1.6
+	op = 2.4
+	oq = 3.2
+	or = 4.0
+	os = 4.8
+	ot = 5.6
+	ou = 6.4
+	ov = 7.2
+	ow = 8.0
+	ox = 8.8
+	oy = 9.6
+	oz = 10.4
+	gya = 11.2
+	gyb = 12.0
+	gyc = 12.8
+	gyd = 13.6
+	gye = 14.4
+	gyf = 15.2
+	gyg = 16.0
+	gyh = 16.8
+	gyi = 17.6
+	gyj = 18.4
+	gyk = 19.2
+	gyl = 20.0
+	gym = 20.8
+	gyn = 21.6
+	gyo = 22.4
+	gyp = 23.2
+	gyq = 24.0
+	gyr = 24.8
+	gys = 25.6
+	gyt = 26.4
+	gyu = 27.2
+	gyv = 28.0
+	gyw = 28.8
+	gyx = 29.6
+	gyy = 30.4
+	gyz = 31.2
+	ra = 32.0
+	rb = 32.8
+	rc = 33.6
+	rd = 34.4
+	re = 35.2
+	rf = 36.0
+	rg = 36.8
+	rh = 37.6
+	ri = 38.4
+	rj = 39.2
+	rk = 40.0
+	rl = 40.8
+	rm = 41.6
+	rn = 42.4
+	ro = 43.2
+	rp = 44.0
+Subject selected: oq
+Subject answer = 3.2
+
+***** measure_8 Trial #4-9 *****
+Trial_time 10:54:50
+
+perceived location  horizontal ruler_7
+Measure_time 10:55:23
+Ruler number: ruler_7
+Ruler values:
+	rh = -44.4
+	ri = -43.2
+	rj = -42.0
+	rk = -40.8
+	rl = -39.6
+	rm = -38.4
+	rn = -37.2
+	ro = -36.0
+	rp = -34.8
+	rq = -33.6
+	rr = -32.4
+	rs = -31.2
+	rt = -30.0
+	ru = -28.8
+	rv = -27.6
+	rw = -26.4
+	rx = -25.2
+	ry = -24.0
+	rz = -22.8
+	gya = -21.6
+	gyb = -20.4
+	gyc = -19.2
+	gyd = -18.0
+	gye = -16.8
+	gyf = -15.6
+	gyg = -14.4
+	gyh = -13.2
+	gyi = -12.0
+	gyj = -10.8
+	gyk = -9.6
+	gyl = -8.4
+	gym = -7.2
+	gyn = -6.0
+	gyo = -4.8
+	gyp = -3.6
+	gyq = -2.4
+	gyr = -1.2
+	gys = 0.0
+	gyt = 1.2
+	gyu = 2.4
+	gyv = 3.6
+	gyw = 4.8
+	gyx = 6.0
+	gyy = 7.2
+	gyz = 8.4
+	ba = 9.6
+	bb = 10.8
+	bc = 12.0
+	bd = 13.2
+	be = 14.4
+	bf = 15.6
+	bg = 16.8
+	bh = 18.0
+	bi = 19.2
+	bj = 20.4
+	bk = 21.6
+	bl = 22.8
+	bm = 24.0
+	bn = 25.2
+	bo = 26.4
+	bp = 27.6
+	bq = 28.8
+	br = 30.0
+	bs = 31.2
+	bt = 32.4
+	bu = 33.6
+	bv = 34.8
+	bw = 36.0
+	bx = 37.2
+	by = 38.4
+	bz = 39.6
+	gna = 40.8
+	gnb = 42.0
+	gnc = 43.2
+	gnd = 44.4
+Subject selected: gyv
+Subject answer = 3.6
+
+***** measure_9 Trial #4-10 *****
+Trial_time 10:55:23
+
+perceived location  horizontal ruler_9
+Measure_time 10:56:18
+Ruler number: ruler_9
+Ruler values:
+	bt = -43.2
+	bu = -42.0
+	bv = -40.8
+	bw = -39.6
+	bx = -38.4
+	by = -37.2
+	bz = -36.0
+	gya = -34.8
+	gyb = -33.6
+	gyc = -32.4
+	gyd = -31.2
+	gye = -30.0
+	gyf = -28.8
+	gyg = -27.6
+	gyh = -26.4
+	gyi = -25.2
+	gyj = -24.0
+	gyk = -22.8
+	gyl = -21.6
+	gym = -20.4
+	gyn = -19.2
+	gyo = -18.0
+	gyp = -16.8
+	gyq = -15.6
+	gyr = -14.4
+	gys = -13.2
+	gyt = -12.0
+	gyu = -10.8
+	gyv = -9.6
+	gyw = -8.4
+	gyx = -7.2
+	gyy = -6.0
+	gyz = -4.8
+	gna = -3.6
+	gnb = -2.4
+	gnc = -1.2
+	gnd = 0.0
+	gne = 1.2
+	gnf = 2.4
+	gng = 3.6
+	gnh = 4.8
+	gni = 6.0
+	gnj = 7.2
+	gnk = 8.4
+	gnl = 9.6
+	gnm = 10.8
+	gnn = 12.0
+	gno = 13.2
+	gnp = 14.4
+	gnq = 15.6
+	gnr = 16.8
+	gns = 18.0
+	gnt = 19.2
+	gnu = 20.4
+	gnv = 21.6
+	gnw = 22.8
+	gnx = 24.0
+	gny = 25.2
+	gnz = 26.4
+	ra = 27.6
+	rb = 28.8
+	rc = 30.0
+	rd = 31.2
+	re = 32.4
+	rf = 33.6
+	rg = 34.8
+	rh = 36.0
+	ri = 37.2
+	rj = 38.4
+	rk = 39.6
+	rl = 40.8
+	rm = 42.0
+	rn = 43.2
+	ro = 44.4
+	rp = 45.6
+Subject selected: gng
+Subject answer = 3.6
+
+***** measure_10 Trial #4-11 *****
+Trial_time 10:56:18
+
+perceived location  horizontal ruler_10
+Measure_time 10:56:40
+Ruler number: ruler_10
+Ruler values:
+	ou = -44.4
+	ov = -43.2
+	ow = -42.0
+	ox = -40.8
+	oy = -39.6
+	oz = -38.4
+	gna = -37.2
+	gnb = -36.0
+	gnc = -34.8
+	gnd = -33.6
+	gne = -32.4
+	gnf = -31.2
+	gng = -30.0
+	gnh = -28.8
+	gni = -27.6
+	gnj = -26.4
+	gnk = -25.2
+	gnl = -24.0
+	gnm = -22.8
+	gnn = -21.6
+	gno = -20.4
+	gnp = -19.2
+	gnq = -18.0
+	gnr = -16.8
+	gns = -15.6
+	gnt = -14.4
+	gnu = -13.2
+	gnv = -12.0
+	gnw = -10.8
+	gnx = -9.6
+	gny = -8.4
+	gnz = -7.2
+	ba = -6.0
+	bb = -4.8
+	bc = -3.6
+	bd = -2.4
+	be = -1.2
+	bf = 0.0
+	bg = 1.2
+	bh = 2.4
+	bi = 3.6
+	bj = 4.8
+	bk = 6.0
+	bl = 7.2
+	bm = 8.4
+	bn = 9.6
+	bo = 10.8
+	bp = 12.0
+	bq = 13.2
+	br = 14.4
+	bs = 15.6
+	bt = 16.8
+	bu = 18.0
+	bv = 19.2
+	bw = 20.4
+	bx = 21.6
+	by = 22.8
+	bz = 24.0
+	gya = 25.2
+	gyb = 26.4
+	gyc = 27.6
+	gyd = 28.8
+	gye = 30.0
+	gyf = 31.2
+	gyg = 32.4
+	gyh = 33.6
+	gyi = 34.8
+	gyj = 36.0
+	gyk = 37.2
+	gyl = 38.4
+	gym = 39.6
+	gyn = 40.8
+	gyo = 42.0
+	gyp = 43.2
+	gyq = 44.4
+Subject selected: bi
+Subject answer = 3.6
+
+---------------------------------
+Location contralateral delay 3min
+---------------------------------
+Block_time 10:56:40
+
+***** measure_1 Trial #5-1 *****
+Trial_time 11:00:23
+
+perceived location  horizontal ruler_6
+Measure_time 11:01:00
+Ruler number: ruler_6
+Ruler values:
+	gne = -43.0
+	gnf = -42.0
+	gng = -41.0
+	gnh = -40.0
+	gni = -39.0
+	gnj = -38.0
+	gnk = -37.0
+	gnl = -36.0
+	gnm = -35.0
+	gnn = -34.0
+	gno = -33.0
+	gnp = -32.0
+	gnq = -31.0
+	gnr = -30.0
+	gns = -29.0
+	gnt = -28.0
+	gnu = -27.0
+	gnv = -26.0
+	gnw = -25.0
+	gnx = -24.0
+	gny = -23.0
+	gnz = -22.0
+	ba = -21.0
+	bb = -20.0
+	bc = -19.0
+	bd = -18.0
+	be = -17.0
+	bf = -16.0
+	bg = -15.0
+	bh = -14.0
+	bi = -13.0
+	bj = -12.0
+	bk = -11.0
+	bl = -10.0
+	bm = -9.0
+	bn = -8.0
+	bo = -7.0
+	bp = -6.0
+	bq = -5.0
+	br = -4.0
+	bs = -3.0
+	bt = -2.0
+	bu = -1.0
+	bv = 0.0
+	bw = 1.0
+	bx = 2.0
+	by = 3.0
+	bz = 4.0
+	ra = 5.0
+	rb = 6.0
+	rc = 7.0
+	rd = 8.0
+	re = 9.0
+	rf = 10.0
+	rg = 11.0
+	rh = 12.0
+	ri = 13.0
+	rj = 14.0
+	rk = 15.0
+	rl = 16.0
+	rm = 17.0
+	rn = 18.0
+	ro = 19.0
+	rp = 20.0
+	rq = 21.0
+	rr = 22.0
+	rs = 23.0
+	rt = 24.0
+	ru = 25.0
+	rv = 26.0
+	rw = 27.0
+	rx = 28.0
+	ry = 29.0
+	rz = 30.0
+	gya = 31.0
+	gyb = 32.0
+	gyc = 33.0
+	gyd = 34.0
+	gye = 35.0
+	gyf = 36.0
+	gyg = 37.0
+	gyh = 38.0
+	gyi = 39.0
+	gyj = 40.0
+	gyk = 41.0
+	gyl = 42.0
+	gym = 43.0
+	gyn = 44.0
+	gyo = 45.0
+Subject selected: bi
+Subject answer = -13.0
+
+***** measure_2 Trial #5-2 *****
+Trial_time 11:01:00
+
+perceived location  horizontal ruler_2
+Measure_time 11:01:33
+Ruler number: ruler_2
+Ruler values:
+	gnj = -44.0
+	gnk = -43.2
+	gnl = -42.4
+	gnm = -41.6
+	gnn = -40.8
+	gno = -40.0
+	gnp = -39.2
+	gnq = -38.4
+	gnr = -37.6
+	gns = -36.8
+	gnt = -36.0
+	gnu = -35.2
+	gnv = -34.4
+	gnw = -33.6
+	gnx = -32.8
+	gny = -32.0
+	gnz = -31.2
+	ba = -30.4
+	bb = -29.6
+	bc = -28.8
+	bd = -28.0
+	be = -27.2
+	bf = -26.4
+	bg = -25.6
+	bh = -24.8
+	bi = -24.0
+	bj = -23.2
+	bk = -22.4
+	bl = -21.6
+	bm = -20.8
+	bn = -20.0
+	bo = -19.2
+	bp = -18.4
+	bq = -17.6
+	br = -16.8
+	bs = -16.0
+	bt = -15.2
+	bu = -14.4
+	bv = -13.6
+	bw = -12.8
+	bx = -12.0
+	by = -11.2
+	bz = -10.4
+	oa = -9.6
+	ob = -8.8
+	oc = -8.0
+	od = -7.2
+	oe = -6.4
+	of = -5.6
+	og = -4.8
+	oh = -4.0
+	oi = -3.2
+	oj = -2.4
+	ok = -1.6
+	ol = -0.8
+	om = 0.0
+	on = 0.8
+	oo = 1.6
+	op = 2.4
+	oq = 3.2
+	or = 4.0
+	os = 4.8
+	ot = 5.6
+	ou = 6.4
+	ov = 7.2
+	ow = 8.0
+	ox = 8.8
+	oy = 9.6
+	oz = 10.4
+	gya = 11.2
+	gyb = 12.0
+	gyc = 12.8
+	gyd = 13.6
+	gye = 14.4
+	gyf = 15.2
+	gyg = 16.0
+	gyh = 16.8
+	gyi = 17.6
+	gyj = 18.4
+	gyk = 19.2
+	gyl = 20.0
+	gym = 20.8
+	gyn = 21.6
+	gyo = 22.4
+	gyp = 23.2
+	gyq = 24.0
+	gyr = 24.8
+	gys = 25.6
+	gyt = 26.4
+	gyu = 27.2
+	gyv = 28.0
+	gyw = 28.8
+	gyx = 29.6
+	gyy = 30.4
+	gyz = 31.2
+	ra = 32.0
+	rb = 32.8
+	rc = 33.6
+	rd = 34.4
+	re = 35.2
+	rf = 36.0
+	rg = 36.8
+	rh = 37.6
+	ri = 38.4
+	rj = 39.2
+	rk = 40.0
+	rl = 40.8
+	rm = 41.6
+	rn = 42.4
+	ro = 43.2
+	rp = 44.0
+Subject selected: bv
+Subject answer = -13.6
+
+***** measure_3 Trial #5-3 *****
+Trial_time 11:01:33
+
+perceived location  horizontal ruler_1
+Measure_time 11:02:17
+Ruler number: ruler_1
+Ruler values:
+	gym = -43.2
+	gyn = -42.4
+	gyo = -41.6
+	gyp = -40.8
+	gyq = -40.0
+	gyr = -39.2
+	gys = -38.4
+	gyt = -37.6
+	gyu = -36.8
+	gyv = -36.0
+	gyw = -35.2
+	gyx = -34.4
+	gyy = -33.6
+	gyz = -32.8
+	ra = -32.0
+	rb = -31.2
+	rc = -30.4
+	rd = -29.6
+	re = -28.8
+	rf = -28.0
+	rg = -27.2
+	rh = -26.4
+	ri = -25.6
+	rj = -24.8
+	rk = -24.0
+	rl = -23.2
+	rm = -22.4
+	rn = -21.6
+	ro = -20.8
+	rp = -20.0
+	rq = -19.2
+	rr = -18.4
+	rs = -17.6
+	rt = -16.8
+	ru = -16.0
+	rv = -15.2
+	rw = -14.4
+	rx = -13.6
+	ry = -12.8
+	rz = -12.0
+	gna = -11.2
+	gnb = -10.4
+	gnc = -9.6
+	gnd = -8.8
+	gne = -8.0
+	gnf = -7.2
+	gng = -6.4
+	gnh = -5.6
+	gni = -4.8
+	gnj = -4.0
+	gnk = -3.2
+	gnl = -2.4
+	gnm = -1.6
+	gnn = -0.8
+	gno = 0.0
+	gnp = 0.8
+	gnq = 1.6
+	gnr = 2.4
+	gns = 3.2
+	gnt = 4.0
+	gnu = 4.8
+	gnv = 5.6
+	gnw = 6.4
+	gnx = 7.2
+	gny = 8.0
+	gnz = 8.8
+	oa = 9.6
+	ob = 10.4
+	oc = 11.2
+	od = 12.0
+	oe = 12.8
+	of = 13.6
+	og = 14.4
+	oh = 15.2
+	oi = 16.0
+	oj = 16.8
+	ok = 17.6
+	ol = 18.4
+	om = 19.2
+	on = 20.0
+	oo = 20.8
+	op = 21.6
+	oq = 22.4
+	or = 23.2
+	os = 24.0
+	ot = 24.8
+	ou = 25.6
+	ov = 26.4
+	ow = 27.2
+	ox = 28.0
+	oy = 28.8
+	oz = 29.6
+	ba = 30.4
+	bb = 31.2
+	bc = 32.0
+	bd = 32.8
+	be = 33.6
+	bf = 34.4
+	bg = 35.2
+	bh = 36.0
+	bi = 36.8
+	bj = 37.6
+	bk = 38.4
+	bl = 39.2
+	bm = 40.0
+	bn = 40.8
+	bo = 41.6
+	bp = 42.4
+	bq = 43.2
+	br = 44.0
+	bs = 44.8
+Subject selected: rz
+Subject answer = -12.0
+
+***** measure_4 Trial #5-4 *****
+Trial_time 11:02:17
+
+perceived location  horizontal ruler_4
+Measure_time 11:02:43
+Ruler number: ruler_4
+Ruler values:
+	bx = -45.0
+	by = -44.0
+	bz = -43.0
+	oa = -42.0
+	ob = -41.0
+	oc = -40.0
+	od = -39.0
+	oe = -38.0
+	of = -37.0
+	og = -36.0
+	oh = -35.0
+	oi = -34.0
+	oj = -33.0
+	ok = -32.0
+	ol = -31.0
+	om = -30.0
+	on = -29.0
+	oo = -28.0
+	op = -27.0
+	oq = -26.0
+	or = -25.0
+	os = -24.0
+	ot = -23.0
+	ou = -22.0
+	ov = -21.0
+	ow = -20.0
+	ox = -19.0
+	oy = -18.0
+	oz = -17.0
+	gya = -16.0
+	gyb = -15.0
+	gyc = -14.0
+	gyd = -13.0
+	gye = -12.0
+	gyf = -11.0
+	gyg = -10.0
+	gyh = -9.0
+	gyi = -8.0
+	gyj = -7.0
+	gyk = -6.0
+	gyl = -5.0
+	gym = -4.0
+	gyn = -3.0
+	gyo = -2.0
+	gyp = -1.0
+	gyq = 0.0
+	gyr = 1.0
+	gys = 2.0
+	gyt = 3.0
+	gyu = 4.0
+	gyv = 5.0
+	gyw = 6.0
+	gyx = 7.0
+	gyy = 8.0
+	gyz = 9.0
+	gna = 10.0
+	gnb = 11.0
+	gnc = 12.0
+	gnd = 13.0
+	gne = 14.0
+	gnf = 15.0
+	gng = 16.0
+	gnh = 17.0
+	gni = 18.0
+	gnj = 19.0
+	gnk = 20.0
+	gnl = 21.0
+	gnm = 22.0
+	gnn = 23.0
+	gno = 24.0
+	gnp = 25.0
+	gnq = 26.0
+	gnr = 27.0
+	gns = 28.0
+	gnt = 29.0
+	gnu = 30.0
+	gnv = 31.0
+	gnw = 32.0
+	gnx = 33.0
+	gny = 34.0
+	gnz = 35.0
+	ra = 36.0
+	rb = 37.0
+	rc = 38.0
+	rd = 39.0
+	re = 40.0
+	rf = 41.0
+	rg = 42.0
+	rh = 43.0
+Subject selected: gyc
+Subject answer = -14.0
+
+***** measure_5 Trial #5-5 *****
+Trial_time 11:02:43
+
+perceived location  horizontal ruler_8
+Measure_time 11:03:13
+Ruler number: ruler_8
+Ruler values:
+	bc = -43.2
+	bd = -42.0
+	be = -40.8
+	bf = -39.6
+	bg = -38.4
+	bh = -37.2
+	bi = -36.0
+	bj = -34.8
+	bk = -33.6
+	bl = -32.4
+	bm = -31.2
+	bn = -30.0
+	bo = -28.8
+	bp = -27.6
+	bq = -26.4
+	br = -25.2
+	bs = -24.0
+	bt = -22.8
+	bu = -21.6
+	bv = -20.4
+	bw = -19.2
+	bx = -18.0
+	by = -16.8
+	bz = -15.6
+	ra = -14.4
+	rb = -13.2
+	rc = -12.0
+	rd = -10.8
+	re = -9.6
+	rf = -8.4
+	rg = -7.2
+	rh = -6.0
+	ri = -4.8
+	rj = -3.6
+	rk = -2.4
+	rl = -1.2
+	rm = 0.0
+	rn = 1.2
+	ro = 2.4
+	rp = 3.6
+	rq = 4.8
+	rr = 6.0
+	rs = 7.2
+	rt = 8.4
+	ru = 9.6
+	rv = 10.8
+	rw = 12.0
+	rx = 13.2
+	ry = 14.4
+	rz = 15.6
+	gya = 16.8
+	gyb = 18.0
+	gyc = 19.2
+	gyd = 20.4
+	gye = 21.6
+	gyf = 22.8
+	gyg = 24.0
+	gyh = 25.2
+	gyi = 26.4
+	gyj = 27.6
+	gyk = 28.8
+	gyl = 30.0
+	gym = 31.2
+	gyn = 32.4
+	gyo = 33.6
+	gyp = 34.8
+	gyq = 36.0
+	gyr = 37.2
+	gys = 38.4
+	gyt = 39.6
+	gyu = 40.8
+	gyv = 42.0
+	gyw = 43.2
+	gyx = 44.4
+	gyy = 45.6
+Subject selected: rb
+Subject answer = -13.2
+
+***** video Trial #5-6 *****
+Trial_time 11:03:13
+
+Stimulus_time 11:06:19
+
+Video played for 3 min.
+
+***** measure_6 Trial #5-7 *****
+Trial_time 11:06:19
+
+perceived location  horizontal ruler_9
+Measure_time 11:06:46
+Ruler number: ruler_9
+Ruler values:
+	bt = -43.2
+	bu = -42.0
+	bv = -40.8
+	bw = -39.6
+	bx = -38.4
+	by = -37.2
+	bz = -36.0
+	gya = -34.8
+	gyb = -33.6
+	gyc = -32.4
+	gyd = -31.2
+	gye = -30.0
+	gyf = -28.8
+	gyg = -27.6
+	gyh = -26.4
+	gyi = -25.2
+	gyj = -24.0
+	gyk = -22.8
+	gyl = -21.6
+	gym = -20.4
+	gyn = -19.2
+	gyo = -18.0
+	gyp = -16.8
+	gyq = -15.6
+	gyr = -14.4
+	gys = -13.2
+	gyt = -12.0
+	gyu = -10.8
+	gyv = -9.6
+	gyw = -8.4
+	gyx = -7.2
+	gyy = -6.0
+	gyz = -4.8
+	gna = -3.6
+	gnb = -2.4
+	gnc = -1.2
+	gnd = 0.0
+	gne = 1.2
+	gnf = 2.4
+	gng = 3.6
+	gnh = 4.8
+	gni = 6.0
+	gnj = 7.2
+	gnk = 8.4
+	gnl = 9.6
+	gnm = 10.8
+	gnn = 12.0
+	gno = 13.2
+	gnp = 14.4
+	gnq = 15.6
+	gnr = 16.8
+	gns = 18.0
+	gnt = 19.2
+	gnu = 20.4
+	gnv = 21.6
+	gnw = 22.8
+	gnx = 24.0
+	gny = 25.2
+	gnz = 26.4
+	ra = 27.6
+	rb = 28.8
+	rc = 30.0
+	rd = 31.2
+	re = 32.4
+	rf = 33.6
+	rg = 34.8
+	rh = 36.0
+	ri = 37.2
+	rj = 38.4
+	rk = 39.6
+	rl = 40.8
+	rm = 42.0
+	rn = 43.2
+	ro = 44.4
+	rp = 45.6
+Subject selected: gyr
+Subject answer = -14.4
+
+***** measure_7 Trial #5-8 *****
+Trial_time 11:06:46
+
+perceived location  horizontal ruler_3
+Measure_time 11:07:10
+Ruler number: ruler_3
+Ruler values:
+	br = -43.2
+	bs = -42.4
+	bt = -41.6
+	bu = -40.8
+	bv = -40.0
+	bw = -39.2
+	bx = -38.4
+	by = -37.6
+	bz = -36.8
+	oa = -36.0
+	ob = -35.2
+	oc = -34.4
+	od = -33.6
+	oe = -32.8
+	of = -32.0
+	og = -31.2
+	oh = -30.4
+	oi = -29.6
+	oj = -28.8
+	ok = -28.0
+	ol = -27.2
+	om = -26.4
+	on = -25.6
+	oo = -24.8
+	op = -24.0
+	oq = -23.2
+	or = -22.4
+	os = -21.6
+	ot = -20.8
+	ou = -20.0
+	ov = -19.2
+	ow = -18.4
+	ox = -17.6
+	oy = -16.8
+	oz = -16.0
+	gya = -15.2
+	gyb = -14.4
+	gyc = -13.6
+	gyd = -12.8
+	gye = -12.0
+	gyf = -11.2
+	gyg = -10.4
+	gyh = -9.6
+	gyi = -8.8
+	gyj = -8.0
+	gyk = -7.2
+	gyl = -6.4
+	gym = -5.6
+	gyn = -4.8
+	gyo = -4.0
+	gyp = -3.2
+	gyq = -2.4
+	gyr = -1.6
+	gys = -0.8
+	gyt = 0.0
+	gyu = 0.8
+	gyv = 1.6
+	gyw = 2.4
+	gyx = 3.2
+	gyy = 4.0
+	gyz = 4.8
+	ra = 5.6
+	rb = 6.4
+	rc = 7.2
+	rd = 8.0
+	re = 8.8
+	rf = 9.6
+	rg = 10.4
+	rh = 11.2
+	ri = 12.0
+	rj = 12.8
+	rk = 13.6
+	rl = 14.4
+	rm = 15.2
+	rn = 16.0
+	ro = 16.8
+	rp = 17.6
+	rq = 18.4
+	rr = 19.2
+	rs = 20.0
+	rt = 20.8
+	ru = 21.6
+	rv = 22.4
+	rw = 23.2
+	rx = 24.0
+	ry = 24.8
+	rz = 25.6
+	gna = 26.4
+	gnb = 27.2
+	gnc = 28.0
+	gnd = 28.8
+	gne = 29.6
+	gnf = 30.4
+	gng = 31.2
+	gnh = 32.0
+	gni = 32.8
+	gnj = 33.6
+	gnk = 34.4
+	gnl = 35.2
+	gnm = 36.0
+	gnn = 36.8
+	gno = 37.6
+	gnp = 38.4
+	gnq = 39.2
+	gnr = 40.0
+	gns = 40.8
+	gnt = 41.6
+	gnu = 42.4
+	gnv = 43.2
+	gnw = 44.0
+	gnx = 44.8
+Subject selected: gyc
+Subject answer = -13.6
+
+***** measure_8 Trial #5-9 *****
+Trial_time 11:07:10
+
+perceived location  horizontal ruler_5
+Measure_time 11:07:38
+Ruler number: ruler_5
+Ruler values:
+	rl = -43.0
+	rm = -42.0
+	rn = -41.0
+	ro = -40.0
+	rp = -39.0
+	rq = -38.0
+	rr = -37.0
+	rs = -36.0
+	rt = -35.0
+	ru = -34.0
+	rv = -33.0
+	rw = -32.0
+	rx = -31.0
+	ry = -30.0
+	rz = -29.0
+	gna = -28.0
+	gnb = -27.0
+	gnc = -26.0
+	gnd = -25.0
+	gne = -24.0
+	gnf = -23.0
+	gng = -22.0
+	gnh = -21.0
+	gni = -20.0
+	gnj = -19.0
+	gnk = -18.0
+	gnl = -17.0
+	gnm = -16.0
+	gnn = -15.0
+	gno = -14.0
+	gnp = -13.0
+	gnq = -12.0
+	gnr = -11.0
+	gns = -10.0
+	gnt = -9.0
+	gnu = -8.0
+	gnv = -7.0
+	gnw = -6.0
+	gnx = -5.0
+	gny = -4.0
+	gnz = -3.0
+	oa = -2.0
+	ob = -1.0
+	oc = 0.0
+	od = 1.0
+	oe = 2.0
+	of = 3.0
+	og = 4.0
+	oh = 5.0
+	oi = 6.0
+	oj = 7.0
+	ok = 8.0
+	ol = 9.0
+	om = 10.0
+	on = 11.0
+	oo = 12.0
+	op = 13.0
+	oq = 14.0
+	or = 15.0
+	os = 16.0
+	ot = 17.0
+	ou = 18.0
+	ov = 19.0
+	ow = 20.0
+	ox = 21.0
+	oy = 22.0
+	oz = 23.0
+	ba = 24.0
+	bb = 25.0
+	bc = 26.0
+	bd = 27.0
+	be = 28.0
+	bf = 29.0
+	bg = 30.0
+	bh = 31.0
+	bi = 32.0
+	bj = 33.0
+	bk = 34.0
+	bl = 35.0
+	bm = 36.0
+	bn = 37.0
+	bo = 38.0
+	bp = 39.0
+	bq = 40.0
+	br = 41.0
+	bs = 42.0
+	bt = 43.0
+	bu = 44.0
+	bv = 45.0
+Subject selected: gno
+Subject answer = -14.0
+
+***** measure_9 Trial #5-10 *****
+Trial_time 11:07:38
+
+perceived location  horizontal ruler_10
+Measure_time 11:08:28
+Ruler number: ruler_10
+Ruler values:
+	ou = -44.4
+	ov = -43.2
+	ow = -42.0
+	ox = -40.8
+	oy = -39.6
+	oz = -38.4
+	gna = -37.2
+	gnb = -36.0
+	gnc = -34.8
+	gnd = -33.6
+	gne = -32.4
+	gnf = -31.2
+	gng = -30.0
+	gnh = -28.8
+	gni = -27.6
+	gnj = -26.4
+	gnk = -25.2
+	gnl = -24.0
+	gnm = -22.8
+	gnn = -21.6
+	gno = -20.4
+	gnp = -19.2
+	gnq = -18.0
+	gnr = -16.8
+	gns = -15.6
+	gnt = -14.4
+	gnu = -13.2
+	gnv = -12.0
+	gnw = -10.8
+	gnx = -9.6
+	gny = -8.4
+	gnz = -7.2
+	ba = -6.0
+	bb = -4.8
+	bc = -3.6
+	bd = -2.4
+	be = -1.2
+	bf = 0.0
+	bg = 1.2
+	bh = 2.4
+	bi = 3.6
+	bj = 4.8
+	bk = 6.0
+	bl = 7.2
+	bm = 8.4
+	bn = 9.6
+	bo = 10.8
+	bp = 12.0
+	bq = 13.2
+	br = 14.4
+	bs = 15.6
+	bt = 16.8
+	bu = 18.0
+	bv = 19.2
+	bw = 20.4
+	bx = 21.6
+	by = 22.8
+	bz = 24.0
+	gya = 25.2
+	gyb = 26.4
+	gyc = 27.6
+	gyd = 28.8
+	gye = 30.0
+	gyf = 31.2
+	gyg = 32.4
+	gyh = 33.6
+	gyi = 34.8
+	gyj = 36.0
+	gyk = 37.2
+	gyl = 38.4
+	gym = 39.6
+	gyn = 40.8
+	gyo = 42.0
+	gyp = 43.2
+	gyq = 44.4
+Subject selected: gnt
+Subject answer = -14.4
+
+***** measure_10 Trial #5-11 *****
+Trial_time 11:08:28
+
+perceived location  horizontal ruler_7
+Measure_time 11:08:54
+Ruler number: ruler_7
+Ruler values:
+	rh = -44.4
+	ri = -43.2
+	rj = -42.0
+	rk = -40.8
+	rl = -39.6
+	rm = -38.4
+	rn = -37.2
+	ro = -36.0
+	rp = -34.8
+	rq = -33.6
+	rr = -32.4
+	rs = -31.2
+	rt = -30.0
+	ru = -28.8
+	rv = -27.6
+	rw = -26.4
+	rx = -25.2
+	ry = -24.0
+	rz = -22.8
+	gya = -21.6
+	gyb = -20.4
+	gyc = -19.2
+	gyd = -18.0
+	gye = -16.8
+	gyf = -15.6
+	gyg = -14.4
+	gyh = -13.2
+	gyi = -12.0
+	gyj = -10.8
+	gyk = -9.6
+	gyl = -8.4
+	gym = -7.2
+	gyn = -6.0
+	gyo = -4.8
+	gyp = -3.6
+	gyq = -2.4
+	gyr = -1.2
+	gys = 0.0
+	gyt = 1.2
+	gyu = 2.4
+	gyv = 3.6
+	gyw = 4.8
+	gyx = 6.0
+	gyy = 7.2
+	gyz = 8.4
+	ba = 9.6
+	bb = 10.8
+	bc = 12.0
+	bd = 13.2
+	be = 14.4
+	bf = 15.6
+	bg = 16.8
+	bh = 18.0
+	bi = 19.2
+	bj = 20.4
+	bk = 21.6
+	bl = 22.8
+	bm = 24.0
+	bn = 25.2
+	bo = 26.4
+	bp = 27.6
+	bq = 28.8
+	br = 30.0
+	bs = 31.2
+	bt = 32.4
+	bu = 33.6
+	bv = 34.8
+	bw = 36.0
+	bx = 37.2
+	by = 38.4
+	bz = 39.6
+	gna = 40.8
+	gnb = 42.0
+	gnc = 43.2
+	gnd = 44.4
+Subject selected: gyh
+Subject answer = -13.2
+
+---------------------------------
+Location contralateral delay zero
+---------------------------------
+Block_time 11:08:54
+
+***** measure_1 Trial #6-1 *****
+Trial_time 11:12:03
+
+perceived location  horizontal ruler_3
+Measure_time 11:13:05
+Ruler number: ruler_3
+Ruler values:
+	br = -43.2
+	bs = -42.4
+	bt = -41.6
+	bu = -40.8
+	bv = -40.0
+	bw = -39.2
+	bx = -38.4
+	by = -37.6
+	bz = -36.8
+	oa = -36.0
+	ob = -35.2
+	oc = -34.4
+	od = -33.6
+	oe = -32.8
+	of = -32.0
+	og = -31.2
+	oh = -30.4
+	oi = -29.6
+	oj = -28.8
+	ok = -28.0
+	ol = -27.2
+	om = -26.4
+	on = -25.6
+	oo = -24.8
+	op = -24.0
+	oq = -23.2
+	or = -22.4
+	os = -21.6
+	ot = -20.8
+	ou = -20.0
+	ov = -19.2
+	ow = -18.4
+	ox = -17.6
+	oy = -16.8
+	oz = -16.0
+	gya = -15.2
+	gyb = -14.4
+	gyc = -13.6
+	gyd = -12.8
+	gye = -12.0
+	gyf = -11.2
+	gyg = -10.4
+	gyh = -9.6
+	gyi = -8.8
+	gyj = -8.0
+	gyk = -7.2
+	gyl = -6.4
+	gym = -5.6
+	gyn = -4.8
+	gyo = -4.0
+	gyp = -3.2
+	gyq = -2.4
+	gyr = -1.6
+	gys = -0.8
+	gyt = 0.0
+	gyu = 0.8
+	gyv = 1.6
+	gyw = 2.4
+	gyx = 3.2
+	gyy = 4.0
+	gyz = 4.8
+	ra = 5.6
+	rb = 6.4
+	rc = 7.2
+	rd = 8.0
+	re = 8.8
+	rf = 9.6
+	rg = 10.4
+	rh = 11.2
+	ri = 12.0
+	rj = 12.8
+	rk = 13.6
+	rl = 14.4
+	rm = 15.2
+	rn = 16.0
+	ro = 16.8
+	rp = 17.6
+	rq = 18.4
+	rr = 19.2
+	rs = 20.0
+	rt = 20.8
+	ru = 21.6
+	rv = 22.4
+	rw = 23.2
+	rx = 24.0
+	ry = 24.8
+	rz = 25.6
+	gna = 26.4
+	gnb = 27.2
+	gnc = 28.0
+	gnd = 28.8
+	gne = 29.6
+	gnf = 30.4
+	gng = 31.2
+	gnh = 32.0
+	gni = 32.8
+	gnj = 33.6
+	gnk = 34.4
+	gnl = 35.2
+	gnm = 36.0
+	gnn = 36.8
+	gno = 37.6
+	gnp = 38.4
+	gnq = 39.2
+	gnr = 40.0
+	gns = 40.8
+	gnt = 41.6
+	gnu = 42.4
+	gnv = 43.2
+	gnw = 44.0
+	gnx = 44.8
+Subject selected: gyc
+Subject answer = -13.6
+
+***** measure_2 Trial #6-2 *****
+Trial_time 11:13:05
+
+perceived location  horizontal ruler_7
+Measure_time 11:13:31
+Ruler number: ruler_7
+Ruler values:
+	rh = -44.4
+	ri = -43.2
+	rj = -42.0
+	rk = -40.8
+	rl = -39.6
+	rm = -38.4
+	rn = -37.2
+	ro = -36.0
+	rp = -34.8
+	rq = -33.6
+	rr = -32.4
+	rs = -31.2
+	rt = -30.0
+	ru = -28.8
+	rv = -27.6
+	rw = -26.4
+	rx = -25.2
+	ry = -24.0
+	rz = -22.8
+	gya = -21.6
+	gyb = -20.4
+	gyc = -19.2
+	gyd = -18.0
+	gye = -16.8
+	gyf = -15.6
+	gyg = -14.4
+	gyh = -13.2
+	gyi = -12.0
+	gyj = -10.8
+	gyk = -9.6
+	gyl = -8.4
+	gym = -7.2
+	gyn = -6.0
+	gyo = -4.8
+	gyp = -3.6
+	gyq = -2.4
+	gyr = -1.2
+	gys = 0.0
+	gyt = 1.2
+	gyu = 2.4
+	gyv = 3.6
+	gyw = 4.8
+	gyx = 6.0
+	gyy = 7.2
+	gyz = 8.4
+	ba = 9.6
+	bb = 10.8
+	bc = 12.0
+	bd = 13.2
+	be = 14.4
+	bf = 15.6
+	bg = 16.8
+	bh = 18.0
+	bi = 19.2
+	bj = 20.4
+	bk = 21.6
+	bl = 22.8
+	bm = 24.0
+	bn = 25.2
+	bo = 26.4
+	bp = 27.6
+	bq = 28.8
+	br = 30.0
+	bs = 31.2
+	bt = 32.4
+	bu = 33.6
+	bv = 34.8
+	bw = 36.0
+	bx = 37.2
+	by = 38.4
+	bz = 39.6
+	gna = 40.8
+	gnb = 42.0
+	gnc = 43.2
+	gnd = 44.4
+Subject selected: gyh
+Subject answer = -13.2
+
+***** measure_3 Trial #6-3 *****
+Trial_time 11:13:31
+
+perceived location  horizontal ruler_9
+Measure_time 11:13:56
+Ruler number: ruler_9
+Ruler values:
+	bt = -43.2
+	bu = -42.0
+	bv = -40.8
+	bw = -39.6
+	bx = -38.4
+	by = -37.2
+	bz = -36.0
+	gya = -34.8
+	gyb = -33.6
+	gyc = -32.4
+	gyd = -31.2
+	gye = -30.0
+	gyf = -28.8
+	gyg = -27.6
+	gyh = -26.4
+	gyi = -25.2
+	gyj = -24.0
+	gyk = -22.8
+	gyl = -21.6
+	gym = -20.4
+	gyn = -19.2
+	gyo = -18.0
+	gyp = -16.8
+	gyq = -15.6
+	gyr = -14.4
+	gys = -13.2
+	gyt = -12.0
+	gyu = -10.8
+	gyv = -9.6
+	gyw = -8.4
+	gyx = -7.2
+	gyy = -6.0
+	gyz = -4.8
+	gna = -3.6
+	gnb = -2.4
+	gnc = -1.2
+	gnd = 0.0
+	gne = 1.2
+	gnf = 2.4
+	gng = 3.6
+	gnh = 4.8
+	gni = 6.0
+	gnj = 7.2
+	gnk = 8.4
+	gnl = 9.6
+	gnm = 10.8
+	gnn = 12.0
+	gno = 13.2
+	gnp = 14.4
+	gnq = 15.6
+	gnr = 16.8
+	gns = 18.0
+	gnt = 19.2
+	gnu = 20.4
+	gnv = 21.6
+	gnw = 22.8
+	gnx = 24.0
+	gny = 25.2
+	gnz = 26.4
+	ra = 27.6
+	rb = 28.8
+	rc = 30.0
+	rd = 31.2
+	re = 32.4
+	rf = 33.6
+	rg = 34.8
+	rh = 36.0
+	ri = 37.2
+	rj = 38.4
+	rk = 39.6
+	rl = 40.8
+	rm = 42.0
+	rn = 43.2
+	ro = 44.4
+	rp = 45.6
+Subject selected: gys
+Subject answer = -13.2
+
+***** measure_4 Trial #6-4 *****
+Trial_time 11:13:56
+
+perceived location  horizontal ruler_4
+Measure_time 11:14:30
+Ruler number: ruler_4
+Ruler values:
+	bx = -45.0
+	by = -44.0
+	bz = -43.0
+	oa = -42.0
+	ob = -41.0
+	oc = -40.0
+	od = -39.0
+	oe = -38.0
+	of = -37.0
+	og = -36.0
+	oh = -35.0
+	oi = -34.0
+	oj = -33.0
+	ok = -32.0
+	ol = -31.0
+	om = -30.0
+	on = -29.0
+	oo = -28.0
+	op = -27.0
+	oq = -26.0
+	or = -25.0
+	os = -24.0
+	ot = -23.0
+	ou = -22.0
+	ov = -21.0
+	ow = -20.0
+	ox = -19.0
+	oy = -18.0
+	oz = -17.0
+	gya = -16.0
+	gyb = -15.0
+	gyc = -14.0
+	gyd = -13.0
+	gye = -12.0
+	gyf = -11.0
+	gyg = -10.0
+	gyh = -9.0
+	gyi = -8.0
+	gyj = -7.0
+	gyk = -6.0
+	gyl = -5.0
+	gym = -4.0
+	gyn = -3.0
+	gyo = -2.0
+	gyp = -1.0
+	gyq = 0.0
+	gyr = 1.0
+	gys = 2.0
+	gyt = 3.0
+	gyu = 4.0
+	gyv = 5.0
+	gyw = 6.0
+	gyx = 7.0
+	gyy = 8.0
+	gyz = 9.0
+	gna = 10.0
+	gnb = 11.0
+	gnc = 12.0
+	gnd = 13.0
+	gne = 14.0
+	gnf = 15.0
+	gng = 16.0
+	gnh = 17.0
+	gni = 18.0
+	gnj = 19.0
+	gnk = 20.0
+	gnl = 21.0
+	gnm = 22.0
+	gnn = 23.0
+	gno = 24.0
+	gnp = 25.0
+	gnq = 26.0
+	gnr = 27.0
+	gns = 28.0
+	gnt = 29.0
+	gnu = 30.0
+	gnv = 31.0
+	gnw = 32.0
+	gnx = 33.0
+	gny = 34.0
+	gnz = 35.0
+	ra = 36.0
+	rb = 37.0
+	rc = 38.0
+	rd = 39.0
+	re = 40.0
+	rf = 41.0
+	rg = 42.0
+	rh = 43.0
+Subject selected: gyd
+Subject answer = -13.0
+
+***** measure_5 Trial #6-5 *****
+Trial_time 11:14:30
+
+perceived location  horizontal ruler_1
+Measure_time 11:14:58
+Ruler number: ruler_1
+Ruler values:
+	gym = -43.2
+	gyn = -42.4
+	gyo = -41.6
+	gyp = -40.8
+	gyq = -40.0
+	gyr = -39.2
+	gys = -38.4
+	gyt = -37.6
+	gyu = -36.8
+	gyv = -36.0
+	gyw = -35.2
+	gyx = -34.4
+	gyy = -33.6
+	gyz = -32.8
+	ra = -32.0
+	rb = -31.2
+	rc = -30.4
+	rd = -29.6
+	re = -28.8
+	rf = -28.0
+	rg = -27.2
+	rh = -26.4
+	ri = -25.6
+	rj = -24.8
+	rk = -24.0
+	rl = -23.2
+	rm = -22.4
+	rn = -21.6
+	ro = -20.8
+	rp = -20.0
+	rq = -19.2
+	rr = -18.4
+	rs = -17.6
+	rt = -16.8
+	ru = -16.0
+	rv = -15.2
+	rw = -14.4
+	rx = -13.6
+	ry = -12.8
+	rz = -12.0
+	gna = -11.2
+	gnb = -10.4
+	gnc = -9.6
+	gnd = -8.8
+	gne = -8.0
+	gnf = -7.2
+	gng = -6.4
+	gnh = -5.6
+	gni = -4.8
+	gnj = -4.0
+	gnk = -3.2
+	gnl = -2.4
+	gnm = -1.6
+	gnn = -0.8
+	gno = 0.0
+	gnp = 0.8
+	gnq = 1.6
+	gnr = 2.4
+	gns = 3.2
+	gnt = 4.0
+	gnu = 4.8
+	gnv = 5.6
+	gnw = 6.4
+	gnx = 7.2
+	gny = 8.0
+	gnz = 8.8
+	oa = 9.6
+	ob = 10.4
+	oc = 11.2
+	od = 12.0
+	oe = 12.8
+	of = 13.6
+	og = 14.4
+	oh = 15.2
+	oi = 16.0
+	oj = 16.8
+	ok = 17.6
+	ol = 18.4
+	om = 19.2
+	on = 20.0
+	oo = 20.8
+	op = 21.6
+	oq = 22.4
+	or = 23.2
+	os = 24.0
+	ot = 24.8
+	ou = 25.6
+	ov = 26.4
+	ow = 27.2
+	ox = 28.0
+	oy = 28.8
+	oz = 29.6
+	ba = 30.4
+	bb = 31.2
+	bc = 32.0
+	bd = 32.8
+	be = 33.6
+	bf = 34.4
+	bg = 35.2
+	bh = 36.0
+	bi = 36.8
+	bj = 37.6
+	bk = 38.4
+	bl = 39.2
+	bm = 40.0
+	bn = 40.8
+	bo = 41.6
+	bp = 42.4
+	bq = 43.2
+	br = 44.0
+	bs = 44.8
+Subject selected: ry
+Subject answer = -12.8
+
+***** measure_6 Trial #6-6 *****
+Trial_time 11:14:58
+
+perceived location  horizontal ruler_10
+Measure_time 11:15:31
+Ruler number: ruler_10
+Ruler values:
+	ou = -44.4
+	ov = -43.2
+	ow = -42.0
+	ox = -40.8
+	oy = -39.6
+	oz = -38.4
+	gna = -37.2
+	gnb = -36.0
+	gnc = -34.8
+	gnd = -33.6
+	gne = -32.4
+	gnf = -31.2
+	gng = -30.0
+	gnh = -28.8
+	gni = -27.6
+	gnj = -26.4
+	gnk = -25.2
+	gnl = -24.0
+	gnm = -22.8
+	gnn = -21.6
+	gno = -20.4
+	gnp = -19.2
+	gnq = -18.0
+	gnr = -16.8
+	gns = -15.6
+	gnt = -14.4
+	gnu = -13.2
+	gnv = -12.0
+	gnw = -10.8
+	gnx = -9.6
+	gny = -8.4
+	gnz = -7.2
+	ba = -6.0
+	bb = -4.8
+	bc = -3.6
+	bd = -2.4
+	be = -1.2
+	bf = 0.0
+	bg = 1.2
+	bh = 2.4
+	bi = 3.6
+	bj = 4.8
+	bk = 6.0
+	bl = 7.2
+	bm = 8.4
+	bn = 9.6
+	bo = 10.8
+	bp = 12.0
+	bq = 13.2
+	br = 14.4
+	bs = 15.6
+	bt = 16.8
+	bu = 18.0
+	bv = 19.2
+	bw = 20.4
+	bx = 21.6
+	by = 22.8
+	bz = 24.0
+	gya = 25.2
+	gyb = 26.4
+	gyc = 27.6
+	gyd = 28.8
+	gye = 30.0
+	gyf = 31.2
+	gyg = 32.4
+	gyh = 33.6
+	gyi = 34.8
+	gyj = 36.0
+	gyk = 37.2
+	gyl = 38.4
+	gym = 39.6
+	gyn = 40.8
+	gyo = 42.0
+	gyp = 43.2
+	gyq = 44.4
+Subject selected: gnu
+Subject answer = -13.2
+
+***** measure_7 Trial #6-7 *****
+Trial_time 11:15:31
+
+perceived location  horizontal ruler_6
+Measure_time 11:15:52
+Ruler number: ruler_6
+Ruler values:
+	gne = -43.0
+	gnf = -42.0
+	gng = -41.0
+	gnh = -40.0
+	gni = -39.0
+	gnj = -38.0
+	gnk = -37.0
+	gnl = -36.0
+	gnm = -35.0
+	gnn = -34.0
+	gno = -33.0
+	gnp = -32.0
+	gnq = -31.0
+	gnr = -30.0
+	gns = -29.0
+	gnt = -28.0
+	gnu = -27.0
+	gnv = -26.0
+	gnw = -25.0
+	gnx = -24.0
+	gny = -23.0
+	gnz = -22.0
+	ba = -21.0
+	bb = -20.0
+	bc = -19.0
+	bd = -18.0
+	be = -17.0
+	bf = -16.0
+	bg = -15.0
+	bh = -14.0
+	bi = -13.0
+	bj = -12.0
+	bk = -11.0
+	bl = -10.0
+	bm = -9.0
+	bn = -8.0
+	bo = -7.0
+	bp = -6.0
+	bq = -5.0
+	br = -4.0
+	bs = -3.0
+	bt = -2.0
+	bu = -1.0
+	bv = 0.0
+	bw = 1.0
+	bx = 2.0
+	by = 3.0
+	bz = 4.0
+	ra = 5.0
+	rb = 6.0
+	rc = 7.0
+	rd = 8.0
+	re = 9.0
+	rf = 10.0
+	rg = 11.0
+	rh = 12.0
+	ri = 13.0
+	rj = 14.0
+	rk = 15.0
+	rl = 16.0
+	rm = 17.0
+	rn = 18.0
+	ro = 19.0
+	rp = 20.0
+	rq = 21.0
+	rr = 22.0
+	rs = 23.0
+	rt = 24.0
+	ru = 25.0
+	rv = 26.0
+	rw = 27.0
+	rx = 28.0
+	ry = 29.0
+	rz = 30.0
+	gya = 31.0
+	gyb = 32.0
+	gyc = 33.0
+	gyd = 34.0
+	gye = 35.0
+	gyf = 36.0
+	gyg = 37.0
+	gyh = 38.0
+	gyi = 39.0
+	gyj = 40.0
+	gyk = 41.0
+	gyl = 42.0
+	gym = 43.0
+	gyn = 44.0
+	gyo = 45.0
+Subject selected: bi
+Subject answer = -13.0
+
+***** measure_8 Trial #6-8 *****
+Trial_time 11:15:52
+
+perceived location  horizontal ruler_5
+Measure_time 11:16:14
+Ruler number: ruler_5
+Ruler values:
+	rl = -43.0
+	rm = -42.0
+	rn = -41.0
+	ro = -40.0
+	rp = -39.0
+	rq = -38.0
+	rr = -37.0
+	rs = -36.0
+	rt = -35.0
+	ru = -34.0
+	rv = -33.0
+	rw = -32.0
+	rx = -31.0
+	ry = -30.0
+	rz = -29.0
+	gna = -28.0
+	gnb = -27.0
+	gnc = -26.0
+	gnd = -25.0
+	gne = -24.0
+	gnf = -23.0
+	gng = -22.0
+	gnh = -21.0
+	gni = -20.0
+	gnj = -19.0
+	gnk = -18.0
+	gnl = -17.0
+	gnm = -16.0
+	gnn = -15.0
+	gno = -14.0
+	gnp = -13.0
+	gnq = -12.0
+	gnr = -11.0
+	gns = -10.0
+	gnt = -9.0
+	gnu = -8.0
+	gnv = -7.0
+	gnw = -6.0
+	gnx = -5.0
+	gny = -4.0
+	gnz = -3.0
+	oa = -2.0
+	ob = -1.0
+	oc = 0.0
+	od = 1.0
+	oe = 2.0
+	of = 3.0
+	og = 4.0
+	oh = 5.0
+	oi = 6.0
+	oj = 7.0
+	ok = 8.0
+	ol = 9.0
+	om = 10.0
+	on = 11.0
+	oo = 12.0
+	op = 13.0
+	oq = 14.0
+	or = 15.0
+	os = 16.0
+	ot = 17.0
+	ou = 18.0
+	ov = 19.0
+	ow = 20.0
+	ox = 21.0
+	oy = 22.0
+	oz = 23.0
+	ba = 24.0
+	bb = 25.0
+	bc = 26.0
+	bd = 27.0
+	be = 28.0
+	bf = 29.0
+	bg = 30.0
+	bh = 31.0
+	bi = 32.0
+	bj = 33.0
+	bk = 34.0
+	bl = 35.0
+	bm = 36.0
+	bn = 37.0
+	bo = 38.0
+	bp = 39.0
+	bq = 40.0
+	br = 41.0
+	bs = 42.0
+	bt = 43.0
+	bu = 44.0
+	bv = 45.0
+Subject selected: gnp
+Subject answer = -13.0
+
+***** measure_9 Trial #6-9 *****
+Trial_time 11:16:14
+
+perceived location  horizontal ruler_8
+Measure_time 11:16:38
+Ruler number: ruler_8
+Ruler values:
+	bc = -43.2
+	bd = -42.0
+	be = -40.8
+	bf = -39.6
+	bg = -38.4
+	bh = -37.2
+	bi = -36.0
+	bj = -34.8
+	bk = -33.6
+	bl = -32.4
+	bm = -31.2
+	bn = -30.0
+	bo = -28.8
+	bp = -27.6
+	bq = -26.4
+	br = -25.2
+	bs = -24.0
+	bt = -22.8
+	bu = -21.6
+	bv = -20.4
+	bw = -19.2
+	bx = -18.0
+	by = -16.8
+	bz = -15.6
+	ra = -14.4
+	rb = -13.2
+	rc = -12.0
+	rd = -10.8
+	re = -9.6
+	rf = -8.4
+	rg = -7.2
+	rh = -6.0
+	ri = -4.8
+	rj = -3.6
+	rk = -2.4
+	rl = -1.2
+	rm = 0.0
+	rn = 1.2
+	ro = 2.4
+	rp = 3.6
+	rq = 4.8
+	rr = 6.0
+	rs = 7.2
+	rt = 8.4
+	ru = 9.6
+	rv = 10.8
+	rw = 12.0
+	rx = 13.2
+	ry = 14.4
+	rz = 15.6
+	gya = 16.8
+	gyb = 18.0
+	gyc = 19.2
+	gyd = 20.4
+	gye = 21.6
+	gyf = 22.8
+	gyg = 24.0
+	gyh = 25.2
+	gyi = 26.4
+	gyj = 27.6
+	gyk = 28.8
+	gyl = 30.0
+	gym = 31.2
+	gyn = 32.4
+	gyo = 33.6
+	gyp = 34.8
+	gyq = 36.0
+	gyr = 37.2
+	gys = 38.4
+	gyt = 39.6
+	gyu = 40.8
+	gyv = 42.0
+	gyw = 43.2
+	gyx = 44.4
+	gyy = 45.6
+Subject selected: rb
+Subject answer = -13.2
+
+***** measure_10 Trial #6-10 *****
+Trial_time 11:16:38
+
+perceived location  horizontal ruler_2
+Measure_time 11:17:01
+Ruler number: ruler_2
+Ruler values:
+	gnj = -44.0
+	gnk = -43.2
+	gnl = -42.4
+	gnm = -41.6
+	gnn = -40.8
+	gno = -40.0
+	gnp = -39.2
+	gnq = -38.4
+	gnr = -37.6
+	gns = -36.8
+	gnt = -36.0
+	gnu = -35.2
+	gnv = -34.4
+	gnw = -33.6
+	gnx = -32.8
+	gny = -32.0
+	gnz = -31.2
+	ba = -30.4
+	bb = -29.6
+	bc = -28.8
+	bd = -28.0
+	be = -27.2
+	bf = -26.4
+	bg = -25.6
+	bh = -24.8
+	bi = -24.0
+	bj = -23.2
+	bk = -22.4
+	bl = -21.6
+	bm = -20.8
+	bn = -20.0
+	bo = -19.2
+	bp = -18.4
+	bq = -17.6
+	br = -16.8
+	bs = -16.0
+	bt = -15.2
+	bu = -14.4
+	bv = -13.6
+	bw = -12.8
+	bx = -12.0
+	by = -11.2
+	bz = -10.4
+	oa = -9.6
+	ob = -8.8
+	oc = -8.0
+	od = -7.2
+	oe = -6.4
+	of = -5.6
+	og = -4.8
+	oh = -4.0
+	oi = -3.2
+	oj = -2.4
+	ok = -1.6
+	ol = -0.8
+	om = 0.0
+	on = 0.8
+	oo = 1.6
+	op = 2.4
+	oq = 3.2
+	or = 4.0
+	os = 4.8
+	ot = 5.6
+	ou = 6.4
+	ov = 7.2
+	ow = 8.0
+	ox = 8.8
+	oy = 9.6
+	oz = 10.4
+	gya = 11.2
+	gyb = 12.0
+	gyc = 12.8
+	gyd = 13.6
+	gye = 14.4
+	gyf = 15.2
+	gyg = 16.0
+	gyh = 16.8
+	gyi = 17.6
+	gyj = 18.4
+	gyk = 19.2
+	gyl = 20.0
+	gym = 20.8
+	gyn = 21.6
+	gyo = 22.4
+	gyp = 23.2
+	gyq = 24.0
+	gyr = 24.8
+	gys = 25.6
+	gyt = 26.4
+	gyu = 27.2
+	gyv = 28.0
+	gyw = 28.8
+	gyx = 29.6
+	gyy = 30.4
+	gyz = 31.2
+	ra = 32.0
+	rb = 32.8
+	rc = 33.6
+	rd = 34.4
+	re = 35.2
+	rf = 36.0
+	rg = 36.8
+	rh = 37.6
+	ri = 38.4
+	rj = 39.2
+	rk = 40.0
+	rl = 40.8
+	rm = 41.6
+	rn = 42.4
+	ro = 43.2
+	rp = 44.0
+Subject selected: bu
+Subject answer = -14.4
+

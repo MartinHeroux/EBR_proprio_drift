@@ -1,0 +1,4 @@
+id:sub06
+age:37
+gender:f
+handedness:r

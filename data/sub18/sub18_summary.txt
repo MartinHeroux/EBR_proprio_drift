@@ -1,0 +1,153 @@
+--------------------
+PROPRIOCEPTIVE DRIFT
+--------------------
+ 
+------------------
+Spacing delay 3min
+------------------
+measure_1
+	perceived spacing horizontal
+measure_2
+	perceived spacing horizontal
+measure_3
+	perceived spacing horizontal
+measure_4
+	perceived spacing horizontal
+measure_5
+	perceived spacing horizontal
+video
+	video stimulus  - 3 min
+measure_6
+	perceived spacing horizontal
+measure_7
+	perceived spacing horizontal
+measure_8
+	perceived spacing horizontal
+measure_9
+	perceived spacing horizontal
+measure_10
+	perceived spacing horizontal
+ 
+------------------
+Spacing delay zero
+------------------
+measure_1
+	perceived spacing horizontal
+measure_2
+	perceived spacing horizontal
+measure_3
+	perceived spacing horizontal
+measure_4
+	perceived spacing horizontal
+measure_5
+	perceived spacing horizontal
+measure_6
+	perceived spacing horizontal
+measure_7
+	perceived spacing horizontal
+measure_8
+	perceived spacing horizontal
+measure_9
+	perceived spacing horizontal
+measure_10
+	perceived spacing horizontal
+ 
+---------------------------------
+Location contralateral delay 3min
+---------------------------------
+measure_1
+	perceived location  horizontal ruler_5
+measure_2
+	perceived location  horizontal ruler_6
+measure_3
+	perceived location  horizontal ruler_9
+measure_4
+	perceived location  horizontal ruler_2
+measure_5
+	perceived location  horizontal ruler_1
+video
+	video stimulus  - 3 min
+measure_6
+	perceived location  horizontal ruler_7
+measure_7
+	perceived location  horizontal ruler_10
+measure_8
+	perceived location  horizontal ruler_8
+measure_9
+	perceived location  horizontal ruler_3
+measure_10
+	perceived location  horizontal ruler_4
+ 
+---------------------------------
+Location contralateral delay zero
+---------------------------------
+measure_1
+	perceived location  horizontal ruler_4
+measure_2
+	perceived location  horizontal ruler_7
+measure_3
+	perceived location  horizontal ruler_10
+measure_4
+	perceived location  horizontal ruler_2
+measure_5
+	perceived location  horizontal ruler_1
+measure_6
+	perceived location  horizontal ruler_5
+measure_7
+	perceived location  horizontal ruler_3
+measure_8
+	perceived location  horizontal ruler_9
+measure_9
+	perceived location  horizontal ruler_8
+measure_10
+	perceived location  horizontal ruler_6
+ 
+-------------------------------
+Location ipsilateral delay zero
+-------------------------------
+measure_1
+	perceived location  horizontal ruler_2
+measure_2
+	perceived location  horizontal ruler_9
+measure_3
+	perceived location  horizontal ruler_4
+measure_4
+	perceived location  horizontal ruler_6
+measure_5
+	perceived location  horizontal ruler_8
+measure_6
+	perceived location  horizontal ruler_3
+measure_7
+	perceived location  horizontal ruler_7
+measure_8
+	perceived location  horizontal ruler_10
+measure_9
+	perceived location  horizontal ruler_1
+measure_10
+	perceived location  horizontal ruler_5
+ 
+-------------------------------
+Location ipsilateral delay 3min
+-------------------------------
+measure_1
+	perceived location  horizontal ruler_1
+measure_2
+	perceived location  horizontal ruler_3
+measure_3
+	perceived location  horizontal ruler_10
+measure_4
+	perceived location  horizontal ruler_2
+measure_5
+	perceived location  horizontal ruler_7
+video
+	video stimulus  - 3 min
+measure_6
+	perceived location  horizontal ruler_8
+measure_7
+	perceived location  horizontal ruler_6
+measure_8
+	perceived location  horizontal ruler_4
+measure_9
+	perceived location  horizontal ruler_5
+measure_10
+	perceived location  horizontal ruler_9
