@@ -15,7 +15,7 @@ Martin E. Héroux 1,2
 
 ## Notes 
 
-Published in Experimental Brain Research
+Published in Experimental Brain Research (2020) volume 238 pages 1759-1767
 
 ### Data
 Data is contained in the `data` folder. Each subject has a dedicated folder that contains 4 files. For example for `sub01`, these files would be:
